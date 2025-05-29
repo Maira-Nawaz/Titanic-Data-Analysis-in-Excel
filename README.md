@@ -67,3 +67,11 @@ Used multiple **Pivot Tables** to summarize and analyze cleaned data:
 * Most passengers who paid **high fares** survived.
 * Survival rates varied significantly by **embarkation port**.
 
+
+
+##  Author
+
+**Maira Nawaz**
+
+[LinkedIn](https://www.linkedin.com/in/mairanawaz/) | [Kaggle](https://www.kaggle.com/mairanawaz) | [Github](https://github.com/Maira-Nawaz)
+
