@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Pclass Category,Name,Salutation,First and Middle Name,Sex,Gender,Age,Age Group,SibSp,Parch,Family Size, Fare ,Embarked,Port
+1,Not Survived,3,Third Class,Braund, Mr, Owen Harris,male,Male,22,Young Adult,1,0,2, $7 ,S,SouthHampton
+2,Survived,1,First Class,Cumings, Mrs, John Bradley (Florence Briggs Thayer),female,Female,38,Adult,1,0,2, $71 ,C,Cherbourg
+3,Survived,3,Third Class,Heikkinen, Miss, Laina,female,Female,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+4,Survived,1,First Class,Futrelle, Mrs, Jacques Heath (Lily May Peel),female,Female,35,Adult,1,0,2, $53 ,S,SouthHampton
+5,Not Survived,3,Third Class,Allen, Mr, William Henry,male,Male,35,Adult,0,0,1, $8 ,S,SouthHampton
+6,Not Survived,3,Third Class,Moran, Mr, James,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+7,Not Survived,1,First Class,McCarthy, Mr, Timothy J,male,Male,54,Adult,0,0,1, $52 ,S,SouthHampton
+8,Not Survived,3,Third Class,Palsson, Master, Gosta Leonard,male,Male,2,Child,3,1,5, $21 ,S,SouthHampton
+9,Survived,3,Third Class,Johnson, Mrs, Oscar W (Elisabeth Vilhelmina Berg),female,Female,27,Young Adult,0,2,3, $11 ,S,SouthHampton
+10,Survived,2,Second Class,Nasser, Mrs, Nicholas (Adele Achem),female,Female,14,Teenager,1,0,2, $30 ,C,Cherbourg
+11,Survived,3,Third Class,Sandstrom, Miss, Marguerite Rut,female,Female,4,Child,1,1,3, $17 ,S,SouthHampton
+12,Survived,1,First Class,Bonnell, Miss, Elizabeth,female,Female,58,Adult,0,0,1, $27 ,S,SouthHampton
+13,Not Survived,3,Third Class,Saundercock, Mr, William Henry,male,Male,20,Young Adult,0,0,1, $8 ,S,SouthHampton
+14,Not Survived,3,Third Class,Andersson, Mr, Anders Johan,male,Male,39,Adult,1,5,7, $31 ,S,SouthHampton
+15,Not Survived,3,Third Class,Vestrom, Miss, Hulda Amanda Adolfina,female,Female,14,Teenager,0,0,1, $8 ,S,SouthHampton
+16,Survived,2,Second Class,Hewlett, Mrs, (Mary D Kingcome) ,female,Female,55,Adult,0,0,1, $16 ,S,SouthHampton
+17,Not Survived,3,Third Class,Rice, Master, Eugene,male,Male,2,Child,4,1,6, $29 ,Q,QueenTown
+18,Survived,2,Second Class,Williams, Mr, Charles Eugene,male,Male,30,Young Adult,0,0,1, $13 ,S,SouthHampton
+19,Not Survived,3,Third Class,Vander Planke, Mrs, Julius (Emelia Maria Vandemoortele),female,Female,31,Adult,1,0,2, $18 ,S,SouthHampton
+20,Survived,3,Third Class,Masselmani, Mrs, Fatima,female,Female,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+21,Not Survived,2,Second Class,Fynney, Mr, Joseph J,male,Male,35,Adult,0,0,1, $26 ,S,SouthHampton
+22,Survived,2,Second Class,Beesley, Mr, Lawrence,male,Male,34,Adult,0,0,1, $13 ,S,SouthHampton
+23,Survived,3,Third Class,McGowan, Miss," Anna ""Annie""",female,Female,15,Teenager,0,0,1, $8 ,Q,QueenTown
+24,Survived,1,First Class,Sloper, Mr, William Thompson,male,Male,28,Young Adult,0,0,1, $36 ,S,SouthHampton
+25,Not Survived,3,Third Class,Palsson, Miss, Torborg Danira,female,Female,8,Child,3,1,5, $21 ,S,SouthHampton
+26,Survived,3,Third Class,Asplund, Mrs, Carl Oscar (Selma Augusta Emilia Johansson),female,Female,38,Adult,1,5,7, $31 ,S,SouthHampton
+27,Not Survived,3,Third Class,Emir, Mr, Farred Chehab,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+28,Not Survived,1,First Class,Fortune, Mr, Charles Alexander,male,Male,19,Young Adult,3,2,6, $263 ,S,SouthHampton
+29,Survived,3,Third Class,O'Dwyer, Miss," Ellen ""Nellie""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+30,Not Survived,3,Third Class,Todoroff, Mr, Lalio,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+31,Not Survived,1,First Class,Uruchurtu, Don, Manuel E,male,Male,40,Adult,0,0,1, $28 ,C,Cherbourg
+32,Survived,1,First Class,Spencer, Mrs, William Augustus (Marie Eugenie),female,Female,30,Young Adult,1,0,2, $147 ,C,Cherbourg
+33,Survived,3,Third Class,Glynn, Miss, Mary Agatha,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+34,Not Survived,2,Second Class,Wheadon, Mr, Edward H,male,Male,66,Senior Citizen,0,0,1, $11 ,S,SouthHampton
+35,Not Survived,1,First Class,Meyer, Mr, Edgar Joseph,male,Male,28,Young Adult,1,0,2, $82 ,C,Cherbourg
+36,Not Survived,1,First Class,Holverson, Mr, Alexander Oskar,male,Male,42,Adult,1,0,2, $52 ,S,SouthHampton
+37,Survived,3,Third Class,Mamee, Mr, Hanna,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+38,Not Survived,3,Third Class,Cann, Mr, Ernest Charles,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+39,Not Survived,3,Third Class,Vander Planke, Miss, Augusta Maria,female,Female,18,Teenager,2,0,3, $18 ,S,SouthHampton
+40,Survived,3,Third Class,Nicola-Yarred, Miss, Jamila,female,Female,14,Teenager,1,0,2, $11 ,C,Cherbourg
+41,Not Survived,3,Third Class,Ahlin, Mrs, Johan (Johanna Persdotter Larsson),female,Female,40,Adult,1,0,2, $9 ,S,SouthHampton
+42,Not Survived,2,Second Class,Turpin, Mrs, William John Robert (Dorothy Ann Wonnacott),female,Female,27,Young Adult,1,0,2, $21 ,S,SouthHampton
+43,Not Survived,3,Third Class,Kraeff, Mr, Theodor,male,Male,30,Young Adult,0,0,1, $8 ,C,Cherbourg
+44,Survived,2,Second Class,Laroche, Miss, Simonne Marie Anne Andree,female,Female,3,Child,1,2,4, $42 ,C,Cherbourg
+45,Survived,3,Third Class,Devaney, Miss, Margaret Delia,female,Female,19,Young Adult,0,0,1, $8 ,Q,QueenTown
+46,Not Survived,3,Third Class,Rogers, Mr, William John,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+47,Not Survived,3,Third Class,Lennon, Mr, Denis,male,Male,30,Young Adult,1,0,2, $16 ,Q,QueenTown
+48,Survived,3,Third Class,O'Driscoll, Miss, Bridget,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+49,Not Survived,3,Third Class,Samaan, Mr, Youssef,male,Male,30,Young Adult,2,0,3, $22 ,C,Cherbourg
+50,Not Survived,3,Third Class,Arnold-Franchi, Mrs, Josef (Josefine Franchi),female,Female,18,Teenager,1,0,2, $18 ,S,SouthHampton
+51,Not Survived,3,Third Class,Panula, Master, Juha Niilo,male,Male,7,Child,4,1,6, $40 ,S,SouthHampton
+52,Not Survived,3,Third Class,Nosworthy, Mr, Richard Cater,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+53,Survived,1,First Class,Harper, Mrs, Henry Sleeper (Myna Haxtun),female,Female,49,Adult,1,0,2, $77 ,C,Cherbourg
+54,Survived,2,Second Class,Faunthorpe, Mrs, Lizzie (Elizabeth Anne Wilkinson),female,Female,29,Young Adult,1,0,2, $26 ,S,SouthHampton
+55,Not Survived,1,First Class,Ostby, Mr, Engelhart Cornelius,male,Male,65,Senior Citizen,0,1,2, $62 ,C,Cherbourg
+56,Survived,1,First Class,Woolner, Mr, Hugh,male,Male,30,Young Adult,0,0,1, $36 ,S,SouthHampton
+57,Survived,2,Second Class,Rugg, Miss, Emily,female,Female,21,Young Adult,0,0,1, $11 ,S,SouthHampton
+58,Not Survived,3,Third Class,Novel, Mr, Mansouer,male,Male,28.5,Young Adult,0,0,1, $7 ,C,Cherbourg
+59,Survived,2,Second Class,West, Miss, Constance Mirium,female,Female,5,Child,1,2,4, $28 ,S,SouthHampton
+60,Not Survived,3,Third Class,Goodwin, Master, William Frederick,male,Male,11,Child,5,2,8, $47 ,S,SouthHampton
+61,Not Survived,3,Third Class,Sirayanian, Mr, Orsen,male,Male,22,Young Adult,0,0,1, $7 ,C,Cherbourg
+62,Survived,1,First Class,Icard, Miss, Amelie,female,Female,38,Adult,0,0,1, $80 ,,#N/A
+63,Not Survived,1,First Class,Harris, Mr, Henry Birkhardt,male,Male,45,Adult,1,0,2, $83 ,S,SouthHampton
+64,Not Survived,3,Third Class,Skoog, Master, Harald,male,Male,4,Child,3,2,6, $28 ,S,SouthHampton
+65,Not Survived,1,First Class,Stewart, Mr, Albert A,male,Male,30,Young Adult,0,0,1, $28 ,C,Cherbourg
+66,Survived,3,Third Class,Moubarek, Master, Gerios,male,Male,30,Young Adult,1,1,3, $15 ,C,Cherbourg
+67,Survived,2,Second Class,Nye, Mrs, (Elizabeth Ramell),female,Female,29,Young Adult,0,0,1, $11 ,S,SouthHampton
+68,Not Survived,3,Third Class,Crease, Mr, Ernest James,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+69,Survived,3,Third Class,Andersson, Miss, Erna Alexandra,female,Female,17,Teenager,4,2,7, $8 ,S,SouthHampton
+70,Not Survived,3,Third Class,Kink, Mr, Vincenz,male,Male,26,Young Adult,2,0,3, $9 ,S,SouthHampton
+71,Not Survived,2,Second Class,Jenkin, Mr, Stephen Curnow,male,Male,32,Adult,0,0,1, $11 ,S,SouthHampton
+72,Not Survived,3,Third Class,Goodwin, Miss, Lillian Amy,female,Female,16,Teenager,5,2,8, $47 ,S,SouthHampton
+73,Not Survived,2,Second Class,Hood, Mr, Ambrose Jr,male,Male,21,Young Adult,0,0,1, $74 ,S,SouthHampton
+74,Not Survived,3,Third Class,Chronopoulos, Mr, Apostolos,male,Male,26,Young Adult,1,0,2, $14 ,C,Cherbourg
+75,Survived,3,Third Class,Bing, Mr, Lee,male,Male,32,Adult,0,0,1, $56 ,S,SouthHampton
+76,Not Survived,3,Third Class,Moen, Mr, Sigurd Hansen,male,Male,25,Young Adult,0,0,1, $8 ,S,SouthHampton
+77,Not Survived,3,Third Class,Staneff, Mr, Ivan,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+78,Not Survived,3,Third Class,Moutal, Mr, Rahamin Haim,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+79,Survived,2,Second Class,Caldwell, Master, Alden Gates,male,Male,0.83,Child,0,2,3, $29 ,S,SouthHampton
+80,Survived,3,Third Class,Dowdell, Miss, Elizabeth,female,Female,30,Young Adult,0,0,1, $12 ,S,SouthHampton
+81,Not Survived,3,Third Class,Waelens, Mr, Achille,male,Male,22,Young Adult,0,0,1, $9 ,S,SouthHampton
+82,Survived,3,Third Class,Sheerlinck, Mr, Jan Baptist,male,Male,29,Young Adult,0,0,1, $10 ,S,SouthHampton
+83,Survived,3,Third Class,McDermott, Miss, Brigdet Delia,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+84,Not Survived,1,First Class,Carrau, Mr, Francisco M,male,Male,28,Young Adult,0,0,1, $47 ,S,SouthHampton
+85,Survived,2,Second Class,Ilett, Miss, Bertha,female,Female,17,Teenager,0,0,1, $11 ,S,SouthHampton
+86,Survived,3,Third Class,Backstrom, Mrs, Karl Alfred (Maria Mathilda Gustafsson),female,Female,33,Adult,3,0,4, $16 ,S,SouthHampton
+87,Not Survived,3,Third Class,Ford, Mr, William Neal,male,Male,16,Teenager,1,3,5, $34 ,S,SouthHampton
+88,Not Survived,3,Third Class,Slocovski, Mr, Selman Francis,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+89,Survived,1,First Class,Fortune, Miss, Mabel Helen,female,Female,23,Young Adult,3,2,6, $263 ,S,SouthHampton
+90,Not Survived,3,Third Class,Celotti, Mr, Francesco,male,Male,24,Young Adult,0,0,1, $8 ,S,SouthHampton
+91,Not Survived,3,Third Class,Christmann, Mr, Emil,male,Male,29,Young Adult,0,0,1, $8 ,S,SouthHampton
+92,Not Survived,3,Third Class,Andreasson, Mr, Paul Edvin,male,Male,20,Young Adult,0,0,1, $8 ,S,SouthHampton
+93,Not Survived,1,First Class,Chaffee, Mr, Herbert Fuller,male,Male,46,Adult,1,0,2, $61 ,S,SouthHampton
+94,Not Survived,3,Third Class,Dean, Mr, Bertram Frank,male,Male,26,Young Adult,1,2,4, $21 ,S,SouthHampton
+95,Not Survived,3,Third Class,Coxon, Mr, Daniel,male,Male,59,Adult,0,0,1, $7 ,S,SouthHampton
+96,Not Survived,3,Third Class,Shorney, Mr, Charles Joseph,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+97,Not Survived,1,First Class,Goldschmidt, Mr, George B,male,Male,71,Senior Citizen,0,0,1, $35 ,C,Cherbourg
+98,Survived,1,First Class,Greenfield, Mr, William Bertram,male,Male,23,Young Adult,0,1,2, $63 ,C,Cherbourg
+99,Survived,2,Second Class,Doling, Mrs, John T (Ada Julia Bone),female,Female,34,Adult,0,1,2, $23 ,S,SouthHampton
+100,Not Survived,2,Second Class,Kantor, Mr, Sinai,male,Male,34,Adult,1,0,2, $26 ,S,SouthHampton
+101,Not Survived,3,Third Class,Petranec, Miss, Matilda,female,Female,28,Young Adult,0,0,1, $8 ,S,SouthHampton
+102,Not Survived,3,Third Class,Petroff, Mr," Pastcho (""Pentcho"")",male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+103,Not Survived,1,First Class,White, Mr, Richard Frasar,male,Male,21,Young Adult,0,1,2, $77 ,S,SouthHampton
+104,Not Survived,3,Third Class,Johansson, Mr, Gustaf Joel,male,Male,33,Adult,0,0,1, $9 ,S,SouthHampton
+105,Not Survived,3,Third Class,Gustafsson, Mr, Anders Vilhelm,male,Male,37,Adult,2,0,3, $8 ,S,SouthHampton
+106,Not Survived,3,Third Class,Mionoff, Mr, Stoytcho,male,Male,28,Young Adult,0,0,1, $8 ,S,SouthHampton
+107,Survived,3,Third Class,Salkjelsvik, Miss, Anna Kristine,female,Female,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+108,Survived,3,Third Class,Moss, Mr, Albert Johan,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+109,Not Survived,3,Third Class,Rekic, Mr, Tido,male,Male,38,Adult,0,0,1, $8 ,S,SouthHampton
+110,Survived,3,Third Class,Moran, Miss, Bertha,female,Female,30,Young Adult,1,0,2, $24 ,Q,QueenTown
+111,Not Survived,1,First Class,Porter, Mr, Walter Chamberlain,male,Male,47,Adult,0,0,1, $52 ,S,SouthHampton
+112,Not Survived,3,Third Class,Zabour, Miss, Hileni,female,Female,14.5,Teenager,1,0,2, $14 ,C,Cherbourg
+113,Not Survived,3,Third Class,Barton, Mr, David John,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+114,Not Survived,3,Third Class,Jussila, Miss, Katriina,female,Female,20,Young Adult,1,0,2, $10 ,S,SouthHampton
+115,Not Survived,3,Third Class,Attalah, Miss, Malake,female,Female,17,Teenager,0,0,1, $14 ,C,Cherbourg
+116,Not Survived,3,Third Class,Pekoniemi, Mr, Edvard,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+117,Not Survived,3,Third Class,Connors, Mr, Patrick,male,Male,70.5,Senior Citizen,0,0,1, $8 ,Q,QueenTown
+118,Not Survived,2,Second Class,Turpin, Mr, William John Robert,male,Male,29,Young Adult,1,0,2, $21 ,S,SouthHampton
+119,Not Survived,1,First Class,Baxter, Mr, Quigg Edmond,male,Male,24,Young Adult,0,1,2, $248 ,C,Cherbourg
+120,Not Survived,3,Third Class,Andersson, Miss, Ellis Anna Maria,female,Female,2,Child,4,2,7, $31 ,S,SouthHampton
+121,Not Survived,2,Second Class,Hickman, Mr, Stanley George,male,Male,21,Young Adult,2,0,3, $74 ,S,SouthHampton
+122,Not Survived,3,Third Class,Moore, Mr, Leonard Charles,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+123,Not Survived,2,Second Class,Nasser, Mr, Nicholas,male,Male,32.5,Adult,1,0,2, $30 ,C,Cherbourg
+124,Survived,2,Second Class,Webber, Miss, Susan,female,Female,32.5,Adult,0,0,1, $13 ,S,SouthHampton
+125,Not Survived,1,First Class,White, Mr, Percival Wayland,male,Male,54,Adult,0,1,2, $77 ,S,SouthHampton
+126,Survived,3,Third Class,Nicola-Yarred, Master, Elias,male,Male,12,Child,1,0,2, $11 ,C,Cherbourg
+127,Not Survived,3,Third Class,McMahon, Mr, Martin,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+128,Survived,3,Third Class,Madsen, Mr, Fridtjof Arne,male,Male,24,Young Adult,0,0,1, $7 ,S,SouthHampton
+129,Survived,3,Third Class,Peter, Miss, Anna,female,Female,30,Young Adult,1,1,3, $22 ,C,Cherbourg
+130,Not Survived,3,Third Class,Ekstrom, Mr, Johan,male,Male,45,Adult,0,0,1, $7 ,S,SouthHampton
+131,Not Survived,3,Third Class,Drazenoic, Mr, Jozef,male,Male,33,Adult,0,0,1, $8 ,C,Cherbourg
+132,Not Survived,3,Third Class,Coelho, Mr, Domingos Fernandeo,male,Male,20,Young Adult,0,0,1, $7 ,S,SouthHampton
+133,Not Survived,3,Third Class,Robins, Mrs, Alexander A (Grace Charity Laury),female,Female,47,Adult,1,0,2, $15 ,S,SouthHampton
+134,Survived,2,Second Class,Weisz, Mrs, Leopold (Mathilde Francoise Pede),female,Female,29,Young Adult,1,0,2, $26 ,S,SouthHampton
+135,Not Survived,2,Second Class,Sobey, Mr, Samuel James Hayden,male,Male,25,Young Adult,0,0,1, $13 ,S,SouthHampton
+136,Not Survived,2,Second Class,Richard, Mr, Emile,male,Male,23,Young Adult,0,0,1, $15 ,C,Cherbourg
+137,Survived,1,First Class,Newsom, Miss, Helen Monypeny,female,Female,19,Young Adult,0,2,3, $26 ,S,SouthHampton
+138,Not Survived,1,First Class,Futrelle, Mr, Jacques Heath,male,Male,37,Adult,1,0,2, $53 ,S,SouthHampton
+139,Not Survived,3,Third Class,Osen, Mr, Olaf Elon,male,Male,16,Teenager,0,0,1, $9 ,S,SouthHampton
+140,Not Survived,1,First Class,Giglio, Mr, Victor,male,Male,24,Young Adult,0,0,1, $79 ,C,Cherbourg
+141,Not Survived,3,Third Class,Boulos, Mrs, Joseph (Sultana),female,Female,30,Young Adult,0,2,3, $15 ,C,Cherbourg
+142,Survived,3,Third Class,Nysten, Miss, Anna Sofia,female,Female,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+143,Survived,3,Third Class,Hakkarainen, Mrs, Pekka Pietari (Elin Matilda Dolck),female,Female,24,Young Adult,1,0,2, $16 ,S,SouthHampton
+144,Not Survived,3,Third Class,Burke, Mr, Jeremiah,male,Male,19,Young Adult,0,0,1, $7 ,Q,QueenTown
+145,Not Survived,2,Second Class,Andrew, Mr, Edgardo Samuel,male,Male,18,Teenager,0,0,1, $12 ,S,SouthHampton
+146,Not Survived,2,Second Class,Nicholls, Mr, Joseph Charles,male,Male,19,Young Adult,1,1,3, $37 ,S,SouthHampton
+147,Survived,3,Third Class,Andersson, Mr," August Edvard (""Wennerstrom"")",male,Male,27,Young Adult,0,0,1, $8 ,S,SouthHampton
+148,Not Survived,3,Third Class,Ford, Miss," Robina Maggie ""Ruby""",female,Female,9,Child,2,2,5, $34 ,S,SouthHampton
+149,Not Survived,2,Second Class,Navratil, Mr," Michel (""Louis M Hoffman"")",male,Male,36.5,Adult,0,2,3, $26 ,S,SouthHampton
+150,Not Survived,2,Second Class,Byles, Rev, Thomas Roussel Davids,male,Male,42,Adult,0,0,1, $13 ,S,SouthHampton
+151,Not Survived,2,Second Class,Bateman, Rev, Robert James,male,Male,51,Adult,0,0,1, $13 ,S,SouthHampton
+152,Survived,1,First Class,Pears, Mrs, Thomas (Edith Wearne),female,Female,22,Young Adult,1,0,2, $67 ,S,SouthHampton
+153,Not Survived,3,Third Class,Meo, Mr, Alfonzo,male,Male,55.5,Adult,0,0,1, $8 ,S,SouthHampton
+154,Not Survived,3,Third Class,van Billiard, Mr, Austin Blyler,male,Male,40.5,Adult,0,2,3, $15 ,S,SouthHampton
+155,Not Survived,3,Third Class,Olsen, Mr, Ole Martin,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+156,Not Survived,1,First Class,Williams, Mr, Charles Duane,male,Male,51,Adult,0,1,2, $61 ,C,Cherbourg
+157,Survived,3,Third Class,Gilnagh, Miss," Katherine ""Katie""",female,Female,16,Teenager,0,0,1, $8 ,Q,QueenTown
+158,Not Survived,3,Third Class,Corn, Mr, Harry,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+159,Not Survived,3,Third Class,Smiljanic, Mr, Mile,male,Male,30,Young Adult,0,0,1, $9 ,S,SouthHampton
+160,Not Survived,3,Third Class,Sage, Master, Thomas Henry,male,Male,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+161,Not Survived,3,Third Class,Cribb, Mr, John Hatfield,male,Male,44,Adult,0,1,2, $16 ,S,SouthHampton
+162,Survived,2,Second Class,Watt, Mrs," James (Elizabeth ""Bessie"" Inglis Milne)",female,Female,40,Adult,0,0,1, $16 ,S,SouthHampton
+163,Not Survived,3,Third Class,Bengtsson, Mr, John Viktor,male,Male,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+164,Not Survived,3,Third Class,Calic, Mr, Jovo,male,Male,17,Teenager,0,0,1, $9 ,S,SouthHampton
+165,Not Survived,3,Third Class,Panula, Master, Eino Viljami,male,Male,1,Child,4,1,6, $40 ,S,SouthHampton
+166,Survived,3,Third Class,Goldsmith, Master," Frank John William ""Frankie""",male,Male,9,Child,0,2,3, $21 ,S,SouthHampton
+167,Survived,1,First Class,Chibnall, Mrs, (Edith Martha Bowerman),female,Female,30,Young Adult,0,1,2, $55 ,S,SouthHampton
+168,Not Survived,3,Third Class,Skoog, Mrs, William (Anna Bernhardina Karlsson),female,Female,45,Adult,1,4,6, $28 ,S,SouthHampton
+169,Not Survived,1,First Class,Baumann, Mr, John D,male,Male,30,Young Adult,0,0,1, $26 ,S,SouthHampton
+170,Not Survived,3,Third Class,Ling, Mr, Lee,male,Male,28,Young Adult,0,0,1, $56 ,S,SouthHampton
+171,Not Survived,1,First Class,Van der hoef, Mr, Wyckoff,male,Male,61,Senior Citizen,0,0,1, $34 ,S,SouthHampton
+172,Not Survived,3,Third Class,Rice, Master, Arthur,male,Male,4,Child,4,1,6, $29 ,Q,QueenTown
+173,Survived,3,Third Class,Johnson, Miss, Eleanor Ileen,female,Female,1,Child,1,1,3, $11 ,S,SouthHampton
+174,Not Survived,3,Third Class,Sivola, Mr, Antti Wilhelm,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+175,Not Survived,1,First Class,Smith, Mr, James Clinch,male,Male,56,Adult,0,0,1, $31 ,C,Cherbourg
+176,Not Survived,3,Third Class,Klasen, Mr, Klas Albin,male,Male,18,Teenager,1,1,3, $8 ,S,SouthHampton
+177,Not Survived,3,Third Class,Lefebre, Master, Henry Forbes,male,Male,30,Young Adult,3,1,5, $25 ,S,SouthHampton
+178,Not Survived,1,First Class,Isham, Miss, Ann Elizabeth,female,Female,50,Adult,0,0,1, $29 ,C,Cherbourg
+179,Not Survived,2,Second Class,Hale, Mr, Reginald,male,Male,30,Young Adult,0,0,1, $13 ,S,SouthHampton
+180,Not Survived,3,Third Class,Leonard, Mr, Lionel,male,Male,36,Adult,0,0,1, $-   ,S,SouthHampton
+181,Not Survived,3,Third Class,Sage, Miss, Constance Gladys,female,Female,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+182,Not Survived,2,Second Class,Pernot, Mr, Rene,male,Male,30,Young Adult,0,0,1, $15 ,C,Cherbourg
+183,Not Survived,3,Third Class,Asplund, Master, Clarence Gustaf Hugo,male,Male,9,Child,4,2,7, $31 ,S,SouthHampton
+184,Survived,2,Second Class,Becker, Master, Richard F,male,Male,1,Child,2,1,4, $39 ,S,SouthHampton
+185,Survived,3,Third Class,Kink-Heilmann, Miss, Luise Gretchen,female,Female,4,Child,0,2,3, $22 ,S,SouthHampton
+186,Not Survived,1,First Class,Rood, Mr, Hugh Roscoe,male,Male,30,Young Adult,0,0,1, $50 ,S,SouthHampton
+187,Survived,3,Third Class,O'Brien, Mrs," Thomas (Johanna ""Hannah"" Godfrey)",female,Female,30,Young Adult,1,0,2, $16 ,Q,QueenTown
+188,Survived,1,First Class,Romaine, Mr," Charles Hallace (""Mr C Rolmane"")",male,Male,45,Adult,0,0,1, $27 ,S,SouthHampton
+189,Not Survived,3,Third Class,Bourke, Mr, John,male,Male,40,Adult,1,1,3, $16 ,Q,QueenTown
+190,Not Survived,3,Third Class,Turcin, Mr, Stjepan,male,Male,36,Adult,0,0,1, $8 ,S,SouthHampton
+191,Survived,2,Second Class,Pinsky, Mrs, (Rosa),female,Female,32,Adult,0,0,1, $13 ,S,SouthHampton
+192,Not Survived,2,Second Class,Carbines, Mr, William,male,Male,19,Young Adult,0,0,1, $13 ,S,SouthHampton
+193,Survived,3,Third Class,Andersen-Jensen, Miss, Carla Christine Nielsine,female,Female,19,Young Adult,1,0,2, $8 ,S,SouthHampton
+194,Survived,2,Second Class,Navratil, Master, Michel M,male,Male,3,Child,1,1,3, $26 ,S,SouthHampton
+195,Survived,1,First Class,Brown, Mrs, James Joseph (Margaret Tobin),female,Female,44,Adult,0,0,1, $28 ,C,Cherbourg
+196,Survived,1,First Class,Lurette, Miss, Elise,female,Female,58,Adult,0,0,1, $147 ,C,Cherbourg
+197,Not Survived,3,Third Class,Mernagh, Mr, Robert,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+198,Not Survived,3,Third Class,Olsen, Mr, Karl Siegwart Andreas,male,Male,42,Adult,0,1,2, $8 ,S,SouthHampton
+199,Survived,3,Third Class,Madigan, Miss," Margaret ""Maggie""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+200,Not Survived,2,Second Class,Yrois, Miss," Henriette (""Mrs Harbeck"")",female,Female,24,Young Adult,0,0,1, $13 ,S,SouthHampton
+201,Not Survived,3,Third Class,Vande Walle, Mr, Nestor Cyriel,male,Male,28,Young Adult,0,0,1, $10 ,S,SouthHampton
+202,Not Survived,3,Third Class,Sage, Mr, Frederick,male,Male,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+203,Not Survived,3,Third Class,Johanson, Mr, Jakob Alfred,male,Male,34,Adult,0,0,1, $6 ,S,SouthHampton
+204,Not Survived,3,Third Class,Youseff, Mr, Gerious,male,Male,45.5,Adult,0,0,1, $7 ,C,Cherbourg
+205,Survived,3,Third Class,Cohen, Mr," Gurshon ""Gus""",male,Male,18,Teenager,0,0,1, $8 ,S,SouthHampton
+206,Not Survived,3,Third Class,Strom, Miss, Telma Matilda,female,Female,2,Child,0,1,2, $10 ,S,SouthHampton
+207,Not Survived,3,Third Class,Backstrom, Mr, Karl Alfred,male,Male,32,Adult,1,0,2, $16 ,S,SouthHampton
+208,Survived,3,Third Class,Albimona, Mr, Nassef Cassem,male,Male,26,Young Adult,0,0,1, $19 ,C,Cherbourg
+209,Survived,3,Third Class,Carr, Miss," Helen ""Ellen""",female,Female,16,Teenager,0,0,1, $8 ,Q,QueenTown
+210,Survived,1,First Class,Blank, Mr, Henry,male,Male,40,Adult,0,0,1, $31 ,C,Cherbourg
+211,Not Survived,3,Third Class,Ali, Mr, Ahmed,male,Male,24,Young Adult,0,0,1, $7 ,S,SouthHampton
+212,Survived,2,Second Class,Cameron, Miss, Clear Annie,female,Female,35,Adult,0,0,1, $21 ,S,SouthHampton
+213,Not Survived,3,Third Class,Perkin, Mr, John Henry,male,Male,22,Young Adult,0,0,1, $7 ,S,SouthHampton
+214,Not Survived,2,Second Class,Givard, Mr, Hans Kristensen,male,Male,30,Young Adult,0,0,1, $13 ,S,SouthHampton
+215,Not Survived,3,Third Class,Kiernan, Mr, Philip,male,Male,30,Young Adult,1,0,2, $8 ,Q,QueenTown
+216,Survived,1,First Class,Newell, Miss, Madeleine,female,Female,31,Adult,1,0,2, $113 ,C,Cherbourg
+217,Survived,3,Third Class,Honkanen, Miss, Eliina,female,Female,27,Young Adult,0,0,1, $8 ,S,SouthHampton
+218,Not Survived,2,Second Class,Jacobsohn, Mr, Sidney Samuel,male,Male,42,Adult,1,0,2, $27 ,S,SouthHampton
+219,Survived,1,First Class,Bazzani, Miss, Albina,female,Female,32,Adult,0,0,1, $76 ,C,Cherbourg
+220,Not Survived,2,Second Class,Harris, Mr, Walter,male,Male,30,Young Adult,0,0,1, $11 ,S,SouthHampton
+221,Survived,3,Third Class,Sunderland, Mr, Victor Francis,male,Male,16,Teenager,0,0,1, $8 ,S,SouthHampton
+222,Not Survived,2,Second Class,Bracken, Mr, James H,male,Male,27,Young Adult,0,0,1, $13 ,S,SouthHampton
+223,Not Survived,3,Third Class,Green, Mr, George Henry,male,Male,51,Adult,0,0,1, $8 ,S,SouthHampton
+224,Not Survived,3,Third Class,Nenkoff, Mr, Christo,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+225,Survived,1,First Class,Hoyt, Mr, Frederick Maxfield,male,Male,38,Adult,1,0,2, $90 ,S,SouthHampton
+226,Not Survived,3,Third Class,Berglund, Mr, Karl Ivar Sven,male,Male,22,Young Adult,0,0,1, $9 ,S,SouthHampton
+227,Survived,2,Second Class,Mellors, Mr, William John,male,Male,19,Young Adult,0,0,1, $11 ,S,SouthHampton
+228,Not Survived,3,Third Class,Lovell, Mr," John Hall (""Henry"")",male,Male,20.5,Young Adult,0,0,1, $7 ,S,SouthHampton
+229,Not Survived,2,Second Class,Fahlstrom, Mr, Arne Jonas,male,Male,18,Teenager,0,0,1, $13 ,S,SouthHampton
+230,Not Survived,3,Third Class,Lefebre, Miss, Mathilde,female,Female,30,Young Adult,3,1,5, $25 ,S,SouthHampton
+231,Survived,1,First Class,Harris, Mrs, Henry Birkhardt (Irene Wallach),female,Female,35,Adult,1,0,2, $83 ,S,SouthHampton
+232,Not Survived,3,Third Class,Larsson, Mr, Bengt Edvin,male,Male,29,Young Adult,0,0,1, $8 ,S,SouthHampton
+233,Not Survived,2,Second Class,Sjostedt, Mr, Ernst Adolf,male,Male,59,Adult,0,0,1, $14 ,S,SouthHampton
+234,Survived,3,Third Class,Asplund, Miss, Lillian Gertrud,female,Female,5,Child,4,2,7, $31 ,S,SouthHampton
+235,Not Survived,2,Second Class,Leyson, Mr, Robert William Norman,male,Male,24,Young Adult,0,0,1, $11 ,S,SouthHampton
+236,Not Survived,3,Third Class,Harknett, Miss, Alice Phoebe,female,Female,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+237,Not Survived,2,Second Class,Hold, Mr, Stephen,male,Male,44,Adult,1,0,2, $26 ,S,SouthHampton
+238,Survived,2,Second Class,Collyer, Miss," Marjorie ""Lottie""",female,Female,8,Child,0,2,3, $26 ,S,SouthHampton
+239,Not Survived,2,Second Class,Pengelly, Mr, Frederick William,male,Male,19,Young Adult,0,0,1, $11 ,S,SouthHampton
+240,Not Survived,2,Second Class,Hunt, Mr, George Henry,male,Male,33,Adult,0,0,1, $12 ,S,SouthHampton
+241,Not Survived,3,Third Class,Zabour, Miss, Thamine,female,Female,30,Young Adult,1,0,2, $14 ,C,Cherbourg
+242,Survived,3,Third Class,Murphy, Miss," Katherine ""Kate""",female,Female,30,Young Adult,1,0,2, $16 ,Q,QueenTown
+243,Not Survived,2,Second Class,Coleridge, Mr, Reginald Charles,male,Male,29,Young Adult,0,0,1, $11 ,S,SouthHampton
+244,Not Survived,3,Third Class,Maenpaa, Mr, Matti Alexanteri,male,Male,22,Young Adult,0,0,1, $7 ,S,SouthHampton
+245,Not Survived,3,Third Class,Attalah, Mr, Sleiman,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+246,Not Survived,1,First Class,Minahan, Dr, William Edward,male,Male,44,Adult,2,0,3, $90 ,Q,QueenTown
+247,Not Survived,3,Third Class,Lindahl, Miss, Agda Thorilda Viktoria,female,Female,25,Young Adult,0,0,1, $8 ,S,SouthHampton
+248,Survived,2,Second Class,Hamalainen, Mrs, William (Anna),female,Female,24,Young Adult,0,2,3, $15 ,S,SouthHampton
+249,Survived,1,First Class,Beckwith, Mr, Richard Leonard,male,Male,37,Adult,1,1,3, $53 ,S,SouthHampton
+250,Not Survived,2,Second Class,Carter, Rev, Ernest Courtenay,male,Male,54,Adult,1,0,2, $26 ,S,SouthHampton
+251,Not Survived,3,Third Class,Reed, Mr, James George,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+252,Not Survived,3,Third Class,Strom, Mrs, Wilhelm (Elna Matilda Persson),female,Female,29,Young Adult,1,1,3, $10 ,S,SouthHampton
+253,Not Survived,1,First Class,Stead, Mr, William Thomas,male,Male,62,Senior Citizen,0,0,1, $27 ,S,SouthHampton
+254,Not Survived,3,Third Class,Lobb, Mr, William Arthur,male,Male,30,Young Adult,1,0,2, $16 ,S,SouthHampton
+255,Not Survived,3,Third Class,Rosblom, Mrs, Viktor (Helena Wilhelmina),female,Female,41,Adult,0,2,3, $20 ,S,SouthHampton
+256,Survived,3,Third Class,Touma, Mrs, Darwis (Hanne Youssef Razi),female,Female,29,Young Adult,0,2,3, $15 ,C,Cherbourg
+257,Survived,1,First Class,Thorne, Mrs, Gertrude Maybelle,female,Female,30,Young Adult,0,0,1, $79 ,C,Cherbourg
+258,Survived,1,First Class,Cherry, Miss, Gladys,female,Female,30,Young Adult,0,0,1, $87 ,S,SouthHampton
+259,Survived,1,First Class,Ward, Miss, Anna,female,Female,35,Adult,0,0,1, $512 ,C,Cherbourg
+260,Survived,2,Second Class,Parrish, Mrs, (Lutie Davis),female,Female,50,Adult,0,1,2, $26 ,S,SouthHampton
+261,Not Survived,3,Third Class,Smith, Mr, Thomas,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+262,Survived,3,Third Class,Asplund, Master, Edvin Rojj Felix,male,Male,3,Child,4,2,7, $31 ,S,SouthHampton
+263,Not Survived,1,First Class,Taussig, Mr, Emil,male,Male,52,Adult,1,1,3, $80 ,S,SouthHampton
+264,Not Survived,1,First Class,Harrison, Mr, William,male,Male,40,Adult,0,0,1, $-   ,S,SouthHampton
+265,Not Survived,3,Third Class,Henry, Miss, Delia,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+266,Not Survived,2,Second Class,Reeves, Mr, David,male,Male,36,Adult,0,0,1, $11 ,S,SouthHampton
+267,Not Survived,3,Third Class,Panula, Mr, Ernesti Arvid,male,Male,16,Teenager,4,1,6, $40 ,S,SouthHampton
+268,Survived,3,Third Class,Persson, Mr, Ernst Ulrik,male,Male,25,Young Adult,1,0,2, $8 ,S,SouthHampton
+269,Survived,1,First Class,Graham, Mrs, William Thompson (Edith Junkins),female,Female,58,Adult,0,1,2, $153 ,S,SouthHampton
+270,Survived,1,First Class,Bissette, Miss, Amelia,female,Female,35,Adult,0,0,1, $136 ,S,SouthHampton
+271,Not Survived,1,First Class,Cairns, Mr, Alexander,male,Male,30,Young Adult,0,0,1, $31 ,S,SouthHampton
+272,Survived,3,Third Class,Tornquist, Mr, William Henry,male,Male,25,Young Adult,0,0,1, $-   ,S,SouthHampton
+273,Survived,2,Second Class,Mellinger, Mrs, (Elizabeth Anne Maidment),female,Female,41,Adult,0,1,2, $20 ,S,SouthHampton
+274,Not Survived,1,First Class,Natsch, Mr, Charles H,male,Male,37,Adult,0,1,2, $30 ,C,Cherbourg
+275,Survived,3,Third Class,Healy, Miss," Hanora ""Nora""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+276,Survived,1,First Class,Andrews, Miss, Kornelia Theodosia,female,Female,63,Senior Citizen,1,0,2, $78 ,S,SouthHampton
+277,Not Survived,3,Third Class,Lindblom, Miss, Augusta Charlotta,female,Female,45,Adult,0,0,1, $8 ,S,SouthHampton
+278,Not Survived,2,Second Class,Parkes, Mr," Francis ""Frank""",male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+279,Not Survived,3,Third Class,Rice, Master, Eric,male,Male,7,Child,4,1,6, $29 ,Q,QueenTown
+280,Survived,3,Third Class,Abbott, Mrs, Stanton (Rosa Hunt),female,Female,35,Adult,1,1,3, $20 ,S,SouthHampton
+281,Not Survived,3,Third Class,Duane, Mr, Frank,male,Male,65,Senior Citizen,0,0,1, $8 ,Q,QueenTown
+282,Not Survived,3,Third Class,Olsson, Mr, Nils Johan Goransson,male,Male,28,Young Adult,0,0,1, $8 ,S,SouthHampton
+283,Not Survived,3,Third Class,de Pelsmaeker, Mr, Alfons,male,Male,16,Teenager,0,0,1, $10 ,S,SouthHampton
+284,Survived,3,Third Class,Dorking, Mr, Edward Arthur,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+285,Not Survived,1,First Class,Smith, Mr, Richard William,male,Male,30,Young Adult,0,0,1, $26 ,S,SouthHampton
+286,Not Survived,3,Third Class,Stankovic, Mr, Ivan,male,Male,33,Adult,0,0,1, $9 ,C,Cherbourg
+287,Survived,3,Third Class,de Mulder, Mr, Theodore,male,Male,30,Young Adult,0,0,1, $10 ,S,SouthHampton
+288,Not Survived,3,Third Class,Naidenoff, Mr, Penko,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+289,Survived,2,Second Class,Hosono, Mr, Masabumi,male,Male,42,Adult,0,0,1, $13 ,S,SouthHampton
+290,Survived,3,Third Class,Connolly, Miss, Kate,female,Female,22,Young Adult,0,0,1, $8 ,Q,QueenTown
+291,Survived,1,First Class,Barber, Miss," Ellen ""Nellie""",female,Female,26,Young Adult,0,0,1, $79 ,S,SouthHampton
+292,Survived,1,First Class,Bishop, Mrs, Dickinson H (Helen Walton),female,Female,19,Young Adult,1,0,2, $91 ,C,Cherbourg
+293,Not Survived,2,Second Class,Levy, Mr, Rene Jacques,male,Male,36,Adult,0,0,1, $13 ,C,Cherbourg
+294,Not Survived,3,Third Class,Haas, Miss, Aloisia,female,Female,24,Young Adult,0,0,1, $9 ,S,SouthHampton
+295,Not Survived,3,Third Class,Mineff, Mr, Ivan,male,Male,24,Young Adult,0,0,1, $8 ,S,SouthHampton
+296,Not Survived,1,First Class,Lewy, Mr, Ervin G,male,Male,30,Young Adult,0,0,1, $28 ,C,Cherbourg
+297,Not Survived,3,Third Class,Hanna, Mr, Mansour,male,Male,23.5,Young Adult,0,0,1, $7 ,C,Cherbourg
+298,Not Survived,1,First Class,Allison, Miss, Helen Loraine,female,Female,2,Child,1,2,4, $152 ,S,SouthHampton
+299,Survived,1,First Class,Saalfeld, Mr, Adolphe,male,Male,30,Young Adult,0,0,1, $31 ,S,SouthHampton
+300,Survived,1,First Class,Baxter, Mrs, James (Helene DeLaudeniere Chaput),female,Female,50,Adult,0,1,2, $248 ,C,Cherbourg
+301,Survived,3,Third Class,Kelly, Miss," Anna Katherine ""Annie Kate""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+302,Survived,3,Third Class,McCoy, Mr, Bernard,male,Male,30,Young Adult,2,0,3, $23 ,Q,QueenTown
+303,Not Survived,3,Third Class,Johnson, Mr, William Cahoone Jr,male,Male,19,Young Adult,0,0,1, $-   ,S,SouthHampton
+304,Survived,2,Second Class,Keane, Miss, Nora A,female,Female,30,Young Adult,0,0,1, $12 ,Q,QueenTown
+305,Not Survived,3,Third Class,Williams, Mr," Howard Hugh ""Harry""",male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+306,Survived,1,First Class,Allison, Master, Hudson Trevor,male,Male,0.92,Child,1,2,4, $152 ,S,SouthHampton
+307,Survived,1,First Class,Fleming, Miss, Margaret,female,Female,30,Young Adult,0,0,1, $111 ,C,Cherbourg
+308,Survived,1,First Class,Penasco y Castellana, Mrs, Victor de Satode (Maria Josefa Perez de Soto y Vallejo),female,Female,17,Teenager,1,0,2, $109 ,C,Cherbourg
+309,Not Survived,2,Second Class,Abelson, Mr, Samuel,male,Male,30,Young Adult,1,0,2, $24 ,C,Cherbourg
+310,Survived,1,First Class,Francatelli, Miss, Laura Mabel,female,Female,30,Young Adult,0,0,1, $57 ,C,Cherbourg
+311,Survived,1,First Class,Hays, Miss, Margaret Bechstein,female,Female,24,Young Adult,0,0,1, $83 ,C,Cherbourg
+312,Survived,1,First Class,Ryerson, Miss, Emily Borie,female,Female,18,Teenager,2,2,5, $262 ,C,Cherbourg
+313,Not Survived,2,Second Class,Lahtinen, Mrs, William (Anna Sylfven),female,Female,26,Young Adult,1,1,3, $26 ,S,SouthHampton
+314,Not Survived,3,Third Class,Hendekovic, Mr, Ignjac,male,Male,28,Young Adult,0,0,1, $8 ,S,SouthHampton
+315,Not Survived,2,Second Class,Hart, Mr, Benjamin,male,Male,43,Adult,1,1,3, $26 ,S,SouthHampton
+316,Survived,3,Third Class,Nilsson, Miss, Helmina Josefina,female,Female,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+317,Survived,2,Second Class,Kantor, Mrs, Sinai (Miriam Sternin),female,Female,24,Young Adult,1,0,2, $26 ,S,SouthHampton
+318,Not Survived,2,Second Class,Moraweck, Dr, Ernest,male,Male,54,Adult,0,0,1, $14 ,S,SouthHampton
+319,Survived,1,First Class,Wick, Miss, Mary Natalie,female,Female,31,Adult,0,2,3, $165 ,S,SouthHampton
+320,Survived,1,First Class,Spedden, Mrs, Frederic Oakley (Margaretta Corning Stone),female,Female,40,Adult,1,1,3, $135 ,C,Cherbourg
+321,Not Survived,3,Third Class,Dennis, Mr, Samuel,male,Male,22,Young Adult,0,0,1, $7 ,S,SouthHampton
+322,Not Survived,3,Third Class,Danoff, Mr, Yoto,male,Male,27,Young Adult,0,0,1, $8 ,S,SouthHampton
+323,Survived,2,Second Class,Slayter, Miss, Hilda Mary,female,Female,30,Young Adult,0,0,1, $12 ,Q,QueenTown
+324,Survived,2,Second Class,Caldwell, Mrs, Albert Francis (Sylvia Mae Harbaugh),female,Female,22,Young Adult,1,1,3, $29 ,S,SouthHampton
+325,Not Survived,3,Third Class,Sage, Mr, George John Jr,male,Male,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+326,Survived,1,First Class,Young, Miss, Marie Grice,female,Female,36,Adult,0,0,1, $136 ,C,Cherbourg
+327,Not Survived,3,Third Class,Nysveen, Mr, Johan Hansen,male,Male,61,Senior Citizen,0,0,1, $6 ,S,SouthHampton
+328,Survived,2,Second Class,Ball, Mrs, (Ada E Hall),female,Female,36,Adult,0,0,1, $13 ,S,SouthHampton
+329,Survived,3,Third Class,Goldsmith, Mrs, Frank John (Emily Alice Brown),female,Female,31,Adult,1,1,3, $21 ,S,SouthHampton
+330,Survived,1,First Class,Hippach, Miss, Jean Gertrude,female,Female,16,Teenager,0,1,2, $58 ,C,Cherbourg
+331,Survived,3,Third Class,McCoy, Miss, Agnes,female,Female,30,Young Adult,2,0,3, $23 ,Q,QueenTown
+332,Not Survived,1,First Class,Partner, Mr, Austen,male,Male,45.5,Adult,0,0,1, $29 ,S,SouthHampton
+333,Not Survived,1,First Class,Graham, Mr, George Edward,male,Male,38,Adult,0,1,2, $153 ,S,SouthHampton
+334,Not Survived,3,Third Class,Vander Planke, Mr, Leo Edmondus,male,Male,16,Teenager,2,0,3, $18 ,S,SouthHampton
+335,Survived,1,First Class,Frauenthal, Mrs, Henry William (Clara Heinsheimer),female,Female,30,Young Adult,1,0,2, $134 ,S,SouthHampton
+336,Not Survived,3,Third Class,Denkoff, Mr, Mitto,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+337,Not Survived,1,First Class,Pears, Mr, Thomas Clinton,male,Male,29,Young Adult,1,0,2, $67 ,S,SouthHampton
+338,Survived,1,First Class,Burns, Miss, Elizabeth Margaret,female,Female,41,Adult,0,0,1, $135 ,C,Cherbourg
+339,Survived,3,Third Class,Dahl, Mr, Karl Edwart,male,Male,45,Adult,0,0,1, $8 ,S,SouthHampton
+340,Not Survived,1,First Class,Blackwell, Mr, Stephen Weart,male,Male,45,Adult,0,0,1, $36 ,S,SouthHampton
+341,Survived,2,Second Class,Navratil, Master, Edmond Roger,male,Male,2,Child,1,1,3, $26 ,S,SouthHampton
+342,Survived,1,First Class,Fortune, Miss, Alice Elizabeth,female,Female,24,Young Adult,3,2,6, $263 ,S,SouthHampton
+343,Not Survived,2,Second Class,Collander, Mr, Erik Gustaf,male,Male,28,Young Adult,0,0,1, $13 ,S,SouthHampton
+344,Not Survived,2,Second Class,Sedgwick, Mr, Charles Frederick Waddington,male,Male,25,Young Adult,0,0,1, $13 ,S,SouthHampton
+345,Not Survived,2,Second Class,Fox, Mr, Stanley Hubert,male,Male,36,Adult,0,0,1, $13 ,S,SouthHampton
+346,Survived,2,Second Class,Brown, Miss," Amelia ""Mildred""",female,Female,24,Young Adult,0,0,1, $13 ,S,SouthHampton
+347,Survived,2,Second Class,Smith, Miss, Marion Elsie,female,Female,40,Adult,0,0,1, $13 ,S,SouthHampton
+348,Survived,3,Third Class,Davison, Mrs, Thomas Henry (Mary E Finck),female,Female,30,Young Adult,1,0,2, $16 ,S,SouthHampton
+349,Survived,3,Third Class,Coutts, Master," William Loch ""William""",male,Male,3,Child,1,1,3, $16 ,S,SouthHampton
+350,Not Survived,3,Third Class,Dimic, Mr, Jovan,male,Male,42,Adult,0,0,1, $9 ,S,SouthHampton
+351,Not Survived,3,Third Class,Odahl, Mr, Nils Martin,male,Male,23,Young Adult,0,0,1, $9 ,S,SouthHampton
+352,Not Survived,1,First Class,Williams-Lambert, Mr, Fletcher Fellows,male,Male,30,Young Adult,0,0,1, $35 ,S,SouthHampton
+353,Not Survived,3,Third Class,Elias, Mr, Tannous,male,Male,15,Teenager,1,1,3, $7 ,C,Cherbourg
+354,Not Survived,3,Third Class,Arnold-Franchi, Mr, Josef,male,Male,25,Young Adult,1,0,2, $18 ,S,SouthHampton
+355,Not Survived,3,Third Class,Yousif, Mr, Wazli,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+356,Not Survived,3,Third Class,Vanden Steen, Mr, Leo Peter,male,Male,28,Young Adult,0,0,1, $10 ,S,SouthHampton
+357,Survived,1,First Class,Bowerman, Miss, Elsie Edith,female,Female,22,Young Adult,0,1,2, $55 ,S,SouthHampton
+358,Not Survived,2,Second Class,Funk, Miss, Annie Clemmer,female,Female,38,Adult,0,0,1, $13 ,S,SouthHampton
+359,Survived,3,Third Class,McGovern, Miss, Mary,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+360,Survived,3,Third Class,Mockler, Miss," Helen Mary ""Ellie""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+361,Not Survived,3,Third Class,Skoog, Mr, Wilhelm,male,Male,40,Adult,1,4,6, $28 ,S,SouthHampton
+362,Not Survived,2,Second Class,del Carlo, Mr, Sebastiano,male,Male,29,Young Adult,1,0,2, $28 ,C,Cherbourg
+363,Not Survived,3,Third Class,Barbara, Mrs, (Catherine David),female,Female,45,Adult,0,1,2, $14 ,C,Cherbourg
+364,Not Survived,3,Third Class,Asim, Mr, Adola,male,Male,35,Adult,0,0,1, $7 ,S,SouthHampton
+365,Not Survived,3,Third Class,O'Brien, Mr, Thomas,male,Male,30,Young Adult,1,0,2, $16 ,Q,QueenTown
+366,Not Survived,3,Third Class,Adahl, Mr, Mauritz Nils Martin,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+367,Survived,1,First Class,Warren, Mrs, Frank Manley (Anna Sophia Atkinson),female,Female,60,Senior Citizen,1,0,2, $75 ,C,Cherbourg
+368,Survived,3,Third Class,Moussa, Mrs, (Mantoura Boulos),female,Female,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+369,Survived,3,Third Class,Jermyn, Miss, Annie,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+370,Survived,1,First Class,Aubart, Mme, Leontine Pauline,female,Female,24,Young Adult,0,0,1, $69 ,C,Cherbourg
+371,Survived,1,First Class,Harder, Mr, George Achilles,male,Male,25,Young Adult,1,0,2, $55 ,C,Cherbourg
+372,Not Survived,3,Third Class,Wiklund, Mr, Jakob Alfred,male,Male,18,Teenager,1,0,2, $6 ,S,SouthHampton
+373,Not Survived,3,Third Class,Beavan, Mr, William Thomas,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+374,Not Survived,1,First Class,Ringhini, Mr, Sante,male,Male,22,Young Adult,0,0,1, $136 ,C,Cherbourg
+375,Not Survived,3,Third Class,Palsson, Miss, Stina Viola,female,Female,3,Child,3,1,5, $21 ,S,SouthHampton
+376,Survived,1,First Class,Meyer, Mrs, Edgar Joseph (Leila Saks),female,Female,30,Young Adult,1,0,2, $82 ,C,Cherbourg
+377,Survived,3,Third Class,Landergren, Miss, Aurora Adelia,female,Female,22,Young Adult,0,0,1, $7 ,S,SouthHampton
+378,Not Survived,1,First Class,Widener, Mr, Harry Elkins,male,Male,27,Young Adult,0,2,3, $212 ,C,Cherbourg
+379,Not Survived,3,Third Class,Betros, Mr, Tannous,male,Male,20,Young Adult,0,0,1, $4 ,C,Cherbourg
+380,Not Survived,3,Third Class,Gustafsson, Mr, Karl Gideon,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+381,Survived,1,First Class,Bidois, Miss, Rosalie,female,Female,42,Adult,0,0,1, $228 ,C,Cherbourg
+382,Survived,3,Third Class,Nakid, Miss," Maria (""Mary"")",female,Female,1,Child,0,2,3, $16 ,C,Cherbourg
+383,Not Survived,3,Third Class,Tikkanen, Mr, Juho,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+384,Survived,1,First Class,Holverson, Mrs, Alexander Oskar (Mary Aline Towner),female,Female,35,Adult,1,0,2, $52 ,S,SouthHampton
+385,Not Survived,3,Third Class,Plotcharsky, Mr, Vasil,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+386,Not Survived,2,Second Class,Davies, Mr, Charles Henry,male,Male,18,Teenager,0,0,1, $74 ,S,SouthHampton
+387,Not Survived,3,Third Class,Goodwin, Master, Sidney Leonard,male,Male,1,Child,5,2,8, $47 ,S,SouthHampton
+388,Survived,2,Second Class,Buss, Miss, Kate,female,Female,36,Adult,0,0,1, $13 ,S,SouthHampton
+389,Not Survived,3,Third Class,Sadlier, Mr, Matthew,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+390,Survived,2,Second Class,Lehmann, Miss, Bertha,female,Female,17,Teenager,0,0,1, $12 ,C,Cherbourg
+391,Survived,1,First Class,Carter, Mr, William Ernest,male,Male,36,Adult,1,2,4, $120 ,S,SouthHampton
+392,Survived,3,Third Class,Jansson, Mr, Carl Olof,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+393,Not Survived,3,Third Class,Gustafsson, Mr, Johan Birger,male,Male,28,Young Adult,2,0,3, $8 ,S,SouthHampton
+394,Survived,1,First Class,Newell, Miss, Marjorie,female,Female,23,Young Adult,1,0,2, $113 ,C,Cherbourg
+395,Survived,3,Third Class,Sandstrom, Mrs, Hjalmar (Agnes Charlotta Bengtsson),female,Female,24,Young Adult,0,2,3, $17 ,S,SouthHampton
+396,Not Survived,3,Third Class,Johansson, Mr, Erik,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+397,Not Survived,3,Third Class,Olsson, Miss, Elina,female,Female,31,Adult,0,0,1, $8 ,S,SouthHampton
+398,Not Survived,2,Second Class,McKane, Mr, Peter David,male,Male,46,Adult,0,0,1, $26 ,S,SouthHampton
+399,Not Survived,2,Second Class,Pain, Dr, Alfred,male,Male,23,Young Adult,0,0,1, $11 ,S,SouthHampton
+400,Survived,2,Second Class,Trout, Mrs, William H (Jessie L),female,Female,28,Young Adult,0,0,1, $13 ,S,SouthHampton
+401,Survived,3,Third Class,Niskanen, Mr, Juha,male,Male,39,Adult,0,0,1, $8 ,S,SouthHampton
+402,Not Survived,3,Third Class,Adams, Mr, John,male,Male,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+403,Not Survived,3,Third Class,Jussila, Miss, Mari Aina,female,Female,21,Young Adult,1,0,2, $10 ,S,SouthHampton
+404,Not Survived,3,Third Class,Hakkarainen, Mr, Pekka Pietari,male,Male,28,Young Adult,1,0,2, $16 ,S,SouthHampton
+405,Not Survived,3,Third Class,Oreskovic, Miss, Marija,female,Female,20,Young Adult,0,0,1, $9 ,S,SouthHampton
+406,Not Survived,2,Second Class,Gale, Mr, Shadrach,male,Male,34,Adult,1,0,2, $21 ,S,SouthHampton
+407,Not Survived,3,Third Class,Widegren, Mr, Carl/Charles Peter,male,Male,51,Adult,0,0,1, $8 ,S,SouthHampton
+408,Survived,2,Second Class,Richards, Master, William Rowe,male,Male,3,Child,1,1,3, $19 ,S,SouthHampton
+409,Not Survived,3,Third Class,Birkeland, Mr, Hans Martin Monsen,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+410,Not Survived,3,Third Class,Lefebre, Miss, Ida,female,Female,30,Young Adult,3,1,5, $25 ,S,SouthHampton
+411,Not Survived,3,Third Class,Sdycoff, Mr, Todor,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+412,Not Survived,3,Third Class,Hart, Mr, Henry,male,Male,30,Young Adult,0,0,1, $7 ,Q,QueenTown
+413,Survived,1,First Class,Minahan, Miss, Daisy E,female,Female,33,Adult,1,0,2, $90 ,Q,QueenTown
+414,Not Survived,2,Second Class,Cunningham, Mr, Alfred Fleming,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+415,Survived,3,Third Class,Sundman, Mr, Johan Julian,male,Male,44,Adult,0,0,1, $8 ,S,SouthHampton
+416,Not Survived,3,Third Class,Meek, Mrs, Thomas (Annie Louise Rowley),female,Female,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+417,Survived,2,Second Class,Drew, Mrs, James Vivian (Lulu Thorne Christian),female,Female,34,Adult,1,1,3, $33 ,S,SouthHampton
+418,Survived,2,Second Class,Silven, Miss, Lyyli Karoliina,female,Female,18,Teenager,0,2,3, $13 ,S,SouthHampton
+419,Not Survived,2,Second Class,Matthews, Mr, William John,male,Male,30,Young Adult,0,0,1, $13 ,S,SouthHampton
+420,Not Survived,3,Third Class,Van Impe, Miss, Catharina,female,Female,10,Child,0,2,3, $24 ,S,SouthHampton
+421,Not Survived,3,Third Class,Gheorgheff, Mr, Stanio,male,Male,30,Young Adult,0,0,1, $8 ,C,Cherbourg
+422,Not Survived,3,Third Class,Charters, Mr, David,male,Male,21,Young Adult,0,0,1, $8 ,Q,QueenTown
+423,Not Survived,3,Third Class,Zimmerman, Mr, Leo,male,Male,29,Young Adult,0,0,1, $8 ,S,SouthHampton
+424,Not Survived,3,Third Class,Danbom, Mrs, Ernst Gilbert (Anna Sigrid Maria Brogren),female,Female,28,Young Adult,1,1,3, $14 ,S,SouthHampton
+425,Not Survived,3,Third Class,Rosblom, Mr, Viktor Richard,male,Male,18,Teenager,1,1,3, $20 ,S,SouthHampton
+426,Not Survived,3,Third Class,Wiseman, Mr, Phillippe,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+427,Survived,2,Second Class,Clarke, Mrs, Charles V (Ada Maria Winfield),female,Female,28,Young Adult,1,0,2, $26 ,S,SouthHampton
+428,Survived,2,Second Class,Phillips, Miss," Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,Female,19,Young Adult,0,0,1, $26 ,S,SouthHampton
+429,Not Survived,3,Third Class,Flynn, Mr, James,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+430,Survived,3,Third Class,Pickard, Mr, Berk (Berk Trembisky),male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+431,Survived,1,First Class,Bjornstrom-Steffansson, Mr, Mauritz Hakan,male,Male,28,Young Adult,0,0,1, $27 ,S,SouthHampton
+432,Survived,3,Third Class,Thorneycroft, Mrs, Percival (Florence Kate White),female,Female,30,Young Adult,1,0,2, $16 ,S,SouthHampton
+433,Survived,2,Second Class,Louch, Mrs, Charles Alexander (Alice Adelaide Slow),female,Female,42,Adult,1,0,2, $26 ,S,SouthHampton
+434,Not Survived,3,Third Class,Kallio, Mr, Nikolai Erland,male,Male,17,Teenager,0,0,1, $7 ,S,SouthHampton
+435,Not Survived,1,First Class,Silvey, Mr, William Baird,male,Male,50,Adult,1,0,2, $56 ,S,SouthHampton
+436,Survived,1,First Class,Carter, Miss, Lucile Polk,female,Female,14,Teenager,1,2,4, $120 ,S,SouthHampton
+437,Not Survived,3,Third Class,Ford, Miss," Doolina Margaret ""Daisy""",female,Female,21,Young Adult,2,2,5, $34 ,S,SouthHampton
+438,Survived,2,Second Class,Richards, Mrs, Sidney (Emily Hocking),female,Female,24,Young Adult,2,3,6, $19 ,S,SouthHampton
+439,Not Survived,1,First Class,Fortune, Mr, Mark,male,Male,64,Senior Citizen,1,4,6, $263 ,S,SouthHampton
+440,Not Survived,2,Second Class,Kvillner, Mr, Johan Henrik Johannesson,male,Male,31,Adult,0,0,1, $11 ,S,SouthHampton
+441,Survived,2,Second Class,Hart, Mrs, Benjamin (Esther Ada Bloomfield),female,Female,45,Adult,1,1,3, $26 ,S,SouthHampton
+442,Not Survived,3,Third Class,Hampe, Mr, Leon,male,Male,20,Young Adult,0,0,1, $10 ,S,SouthHampton
+443,Not Survived,3,Third Class,Petterson, Mr, Johan Emil,male,Male,25,Young Adult,1,0,2, $8 ,S,SouthHampton
+444,Survived,2,Second Class,Reynaldo, Ms, Encarnacion,female,Female,28,Young Adult,0,0,1, $13 ,S,SouthHampton
+445,Survived,3,Third Class,Johannesen-Bratthammer, Mr, Bernt,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+446,Survived,1,First Class,Dodge, Master, Washington,male,Male,4,Child,0,2,3, $82 ,S,SouthHampton
+447,Survived,2,Second Class,Mellinger, Miss, Madeleine Violet,female,Female,13,Child,0,1,2, $20 ,S,SouthHampton
+448,Survived,1,First Class,Seward, Mr, Frederic Kimber,male,Male,34,Adult,0,0,1, $27 ,S,SouthHampton
+449,Survived,3,Third Class,Baclini, Miss, Marie Catherine,female,Female,5,Child,2,1,4, $19 ,C,Cherbourg
+450,Survived,1,First Class,Peuchen, Major, Arthur Godfrey,male,Male,52,Adult,0,0,1, $31 ,S,SouthHampton
+451,Not Survived,2,Second Class,West, Mr, Edwy Arthur,male,Male,36,Adult,1,2,4, $28 ,S,SouthHampton
+452,Not Survived,3,Third Class,Hagland, Mr, Ingvald Olai Olsen,male,Male,30,Young Adult,1,0,2, $20 ,S,SouthHampton
+453,Not Survived,1,First Class,Foreman, Mr, Benjamin Laventall,male,Male,30,Young Adult,0,0,1, $28 ,C,Cherbourg
+454,Survived,1,First Class,Goldenberg, Mr, Samuel L,male,Male,49,Adult,1,0,2, $89 ,C,Cherbourg
+455,Not Survived,3,Third Class,Peduzzi, Mr, Joseph,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+456,Survived,3,Third Class,Jalsevac, Mr, Ivan,male,Male,29,Young Adult,0,0,1, $8 ,C,Cherbourg
+457,Not Survived,1,First Class,Millet, Mr, Francis Davis,male,Male,65,Senior Citizen,0,0,1, $27 ,S,SouthHampton
+458,Survived,1,First Class,Kenyon, Mrs, Frederick R (Marion),female,Female,30,Young Adult,1,0,2, $52 ,S,SouthHampton
+459,Survived,2,Second Class,Toomey, Miss, Ellen,female,Female,50,Adult,0,0,1, $11 ,S,SouthHampton
+460,Not Survived,3,Third Class,O'Connor, Mr, Maurice,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+461,Survived,1,First Class,Anderson, Mr, Harry,male,Male,48,Adult,0,0,1, $27 ,S,SouthHampton
+462,Not Survived,3,Third Class,Morley, Mr, William,male,Male,34,Adult,0,0,1, $8 ,S,SouthHampton
+463,Not Survived,1,First Class,Gee, Mr, Arthur H,male,Male,47,Adult,0,0,1, $39 ,S,SouthHampton
+464,Not Survived,2,Second Class,Milling, Mr, Jacob Christian,male,Male,48,Adult,0,0,1, $13 ,S,SouthHampton
+465,Not Survived,3,Third Class,Maisner, Mr, Simon,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+466,Not Survived,3,Third Class,Goncalves, Mr, Manuel Estanslas,male,Male,38,Adult,0,0,1, $7 ,S,SouthHampton
+467,Not Survived,2,Second Class,Campbell, Mr, William,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+468,Not Survived,1,First Class,Smart, Mr, John Montgomery,male,Male,56,Adult,0,0,1, $27 ,S,SouthHampton
+469,Not Survived,3,Third Class,Scanlan, Mr, James,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+470,Survived,3,Third Class,Baclini, Miss, Helene Barbara,female,Female,0.75,Child,2,1,4, $19 ,C,Cherbourg
+471,Not Survived,3,Third Class,Keefe, Mr, Arthur,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+472,Not Survived,3,Third Class,Cacic, Mr, Luka,male,Male,38,Adult,0,0,1, $9 ,S,SouthHampton
+473,Survived,2,Second Class,West, Mrs, Edwy Arthur (Ada Mary Worth),female,Female,33,Adult,1,2,4, $28 ,S,SouthHampton
+474,Survived,2,Second Class,Jerwan, Mrs, Amin S (Marie Marthe Thuillard),female,Female,23,Young Adult,0,0,1, $14 ,C,Cherbourg
+475,Not Survived,3,Third Class,Strandberg, Miss, Ida Sofia,female,Female,22,Young Adult,0,0,1, $10 ,S,SouthHampton
+476,Not Survived,1,First Class,Clifford, Mr, George Quincy,male,Male,30,Young Adult,0,0,1, $52 ,S,SouthHampton
+477,Not Survived,2,Second Class,Renouf, Mr, Peter Henry,male,Male,34,Adult,1,0,2, $21 ,S,SouthHampton
+478,Not Survived,3,Third Class,Braund, Mr, Lewis Richard,male,Male,29,Young Adult,1,0,2, $7 ,S,SouthHampton
+479,Not Survived,3,Third Class,Karlsson, Mr, Nils August,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+480,Survived,3,Third Class,Hirvonen, Miss, Hildur E,female,Female,2,Child,0,1,2, $12 ,S,SouthHampton
+481,Not Survived,3,Third Class,Goodwin, Master, Harold Victor,male,Male,9,Child,5,2,8, $47 ,S,SouthHampton
+482,Not Survived,2,Second Class,Frost, Mr," Anthony Wood ""Archie""",male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+483,Not Survived,3,Third Class,Rouse, Mr, Richard Henry,male,Male,50,Adult,0,0,1, $8 ,S,SouthHampton
+484,Survived,3,Third Class,Turkula, Mrs, (Hedwig),female,Female,63,Senior Citizen,0,0,1, $10 ,S,SouthHampton
+485,Survived,1,First Class,Bishop, Mr, Dickinson H,male,Male,25,Young Adult,1,0,2, $91 ,C,Cherbourg
+486,Not Survived,3,Third Class,Lefebre, Miss, Jeannie,female,Female,30,Young Adult,3,1,5, $25 ,S,SouthHampton
+487,Survived,1,First Class,Hoyt, Mrs, Frederick Maxfield (Jane Anne Forby),female,Female,35,Adult,1,0,2, $90 ,S,SouthHampton
+488,Not Survived,1,First Class,Kent, Mr, Edward Austin,male,Male,58,Adult,0,0,1, $30 ,C,Cherbourg
+489,Not Survived,3,Third Class,Somerton, Mr, Francis William,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+490,Survived,3,Third Class,Coutts, Master," Eden Leslie ""Neville""",male,Male,9,Child,1,1,3, $16 ,S,SouthHampton
+491,Not Survived,3,Third Class,Hagland, Mr, Konrad Mathias Reiersen,male,Male,30,Young Adult,1,0,2, $20 ,S,SouthHampton
+492,Not Survived,3,Third Class,Windelov, Mr, Einar,male,Male,21,Young Adult,0,0,1, $7 ,S,SouthHampton
+493,Not Survived,1,First Class,Molson, Mr, Harry Markland,male,Male,55,Adult,0,0,1, $31 ,S,SouthHampton
+494,Not Survived,1,First Class,Artagaveytia, Mr, Ramon,male,Male,71,Senior Citizen,0,0,1, $50 ,C,Cherbourg
+495,Not Survived,3,Third Class,Stanley, Mr, Edward Roland,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+496,Not Survived,3,Third Class,Yousseff, Mr, Gerious,male,Male,30,Young Adult,0,0,1, $14 ,C,Cherbourg
+497,Survived,1,First Class,Eustis, Miss, Elizabeth Mussey,female,Female,54,Adult,1,0,2, $78 ,C,Cherbourg
+498,Not Survived,3,Third Class,Shellard, Mr, Frederick William,male,Male,30,Young Adult,0,0,1, $15 ,S,SouthHampton
+499,Not Survived,1,First Class,Allison, Mrs, Hudson J C (Bessie Waldo Daniels),female,Female,25,Young Adult,1,2,4, $152 ,S,SouthHampton
+500,Not Survived,3,Third Class,Svensson, Mr, Olof,male,Male,24,Young Adult,0,0,1, $8 ,S,SouthHampton
+501,Not Survived,3,Third Class,Calic, Mr, Petar,male,Male,17,Teenager,0,0,1, $9 ,S,SouthHampton
+502,Not Survived,3,Third Class,Canavan, Miss, Mary,female,Female,21,Young Adult,0,0,1, $8 ,Q,QueenTown
+503,Not Survived,3,Third Class,O'Sullivan, Miss, Bridget Mary,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+504,Not Survived,3,Third Class,Laitinen, Miss, Kristina Sofia,female,Female,37,Adult,0,0,1, $10 ,S,SouthHampton
+505,Survived,1,First Class,Maioni, Miss, Roberta,female,Female,16,Teenager,0,0,1, $87 ,S,SouthHampton
+506,Not Survived,1,First Class,Penasco y Castellana, Mr, Victor de Satode,male,Male,18,Teenager,1,0,2, $109 ,C,Cherbourg
+507,Survived,2,Second Class,Quick, Mrs, Frederick Charles (Jane Richards),female,Female,33,Adult,0,2,3, $26 ,S,SouthHampton
+508,Survived,1,First Class,Bradley, Mr," George (""George Arthur Brayton"")",male,Male,30,Young Adult,0,0,1, $27 ,S,SouthHampton
+509,Not Survived,3,Third Class,Olsen, Mr, Henry Margido,male,Male,28,Young Adult,0,0,1, $23 ,S,SouthHampton
+510,Survived,3,Third Class,Lang, Mr, Fang,male,Male,26,Young Adult,0,0,1, $56 ,S,SouthHampton
+511,Survived,3,Third Class,Daly, Mr, Eugene Patrick,male,Male,29,Young Adult,0,0,1, $8 ,Q,QueenTown
+512,Not Survived,3,Third Class,Webber, Mr, James,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+513,Survived,1,First Class,McGough, Mr, James Robert,male,Male,36,Adult,0,0,1, $26 ,S,SouthHampton
+514,Survived,1,First Class,Rothschild, Mrs, Martin (Elizabeth L,female,Female,54,Adult,1,0,2, $59 ,C,Cherbourg
+515,Not Survived,3,Third Class,Coleff, Mr, Satio,male,Male,24,Young Adult,0,0,1, $7 ,S,SouthHampton
+516,Not Survived,1,First Class,Walker, Mr, William Anderson,male,Male,47,Adult,0,0,1, $34 ,S,SouthHampton
+517,Survived,2,Second Class,Lemore, Mrs, (Amelia Milley),female,Female,34,Adult,0,0,1, $11 ,S,SouthHampton
+518,Not Survived,3,Third Class,Ryan, Mr, Patrick,male,Male,30,Young Adult,0,0,1, $24 ,Q,QueenTown
+519,Survived,2,Second Class,Angle, Mrs," William A (Florence ""Mary"" Agnes Hughes)",female,Female,36,Adult,1,0,2, $26 ,S,SouthHampton
+520,Not Survived,3,Third Class,Pavlovic, Mr, Stefo,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+521,Survived,1,First Class,Perreault, Miss, Anne,female,Female,30,Young Adult,0,0,1, $94 ,S,SouthHampton
+522,Not Survived,3,Third Class,Vovk, Mr, Janko,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+523,Not Survived,3,Third Class,Lahoud, Mr, Sarkis,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+524,Survived,1,First Class,Hippach, Mrs, Louis Albert (Ida Sophia Fischer),female,Female,44,Adult,0,1,2, $58 ,C,Cherbourg
+525,Not Survived,3,Third Class,Kassem, Mr, Fared,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+526,Not Survived,3,Third Class,Farrell, Mr, James,male,Male,40.5,Adult,0,0,1, $8 ,Q,QueenTown
+527,Survived,2,Second Class,Ridsdale, Miss, Lucy,female,Female,50,Adult,0,0,1, $11 ,S,SouthHampton
+528,Not Survived,1,First Class,Farthing, Mr, John,male,Male,30,Young Adult,0,0,1, $222 ,S,SouthHampton
+529,Not Survived,3,Third Class,Salonen, Mr, Johan Werner,male,Male,39,Adult,0,0,1, $8 ,S,SouthHampton
+530,Not Survived,2,Second Class,Hocking, Mr, Richard George,male,Male,23,Young Adult,2,1,4, $12 ,S,SouthHampton
+531,Survived,2,Second Class,Quick, Miss, Phyllis May,female,Female,2,Child,1,1,3, $26 ,S,SouthHampton
+532,Not Survived,3,Third Class,Toufik, Mr, Nakli,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+533,Not Survived,3,Third Class,Elias, Mr, Joseph Jr,male,Male,17,Teenager,1,1,3, $7 ,C,Cherbourg
+534,Survived,3,Third Class,Peter, Mrs, Catherine (Catherine Rizk),female,Female,30,Young Adult,0,2,3, $22 ,C,Cherbourg
+535,Not Survived,3,Third Class,Cacic, Miss, Marija,female,Female,30,Young Adult,0,0,1, $9 ,S,SouthHampton
+536,Survived,2,Second Class,Hart, Miss, Eva Miriam,female,Female,7,Child,0,2,3, $26 ,S,SouthHampton
+537,Not Survived,1,First Class,Butt, Major, Archibald Willingham,male,Male,45,Adult,0,0,1, $27 ,S,SouthHampton
+538,Survived,1,First Class,LeRoy, Miss, Bertha,female,Female,30,Young Adult,0,0,1, $106 ,C,Cherbourg
+539,Not Survived,3,Third Class,Risien, Mr, Samuel Beard,male,Male,30,Young Adult,0,0,1, $15 ,S,SouthHampton
+540,Survived,1,First Class,Frolicher, Miss, Hedwig Margaritha,female,Female,22,Young Adult,0,2,3, $50 ,C,Cherbourg
+541,Survived,1,First Class,Crosby, Miss, Harriet R,female,Female,36,Adult,0,2,3, $71 ,S,SouthHampton
+542,Not Survived,3,Third Class,Andersson, Miss, Ingeborg Constanzia,female,Female,9,Child,4,2,7, $31 ,S,SouthHampton
+543,Not Survived,3,Third Class,Andersson, Miss, Sigrid Elisabeth,female,Female,11,Child,4,2,7, $31 ,S,SouthHampton
+544,Survived,2,Second Class,Beane, Mr, Edward,male,Male,32,Adult,1,0,2, $26 ,S,SouthHampton
+545,Not Survived,1,First Class,Douglas, Mr, Walter Donald,male,Male,50,Adult,1,0,2, $106 ,C,Cherbourg
+546,Not Survived,1,First Class,Nicholson, Mr, Arthur Ernest,male,Male,64,Senior Citizen,0,0,1, $26 ,S,SouthHampton
+547,Survived,2,Second Class,Beane, Mrs, Edward (Ethel Clarke),female,Female,19,Young Adult,1,0,2, $26 ,S,SouthHampton
+548,Survived,2,Second Class,Padro y Manent, Mr, Julian,male,Male,30,Young Adult,0,0,1, $14 ,C,Cherbourg
+549,Not Survived,3,Third Class,Goldsmith, Mr, Frank John,male,Male,33,Adult,1,1,3, $21 ,S,SouthHampton
+550,Survived,2,Second Class,Davies, Master, John Morgan Jr,male,Male,8,Child,1,1,3, $37 ,S,SouthHampton
+551,Survived,1,First Class,Thayer, Mr, John Borland Jr,male,Male,17,Teenager,0,2,3, $111 ,C,Cherbourg
+552,Not Survived,2,Second Class,Sharp, Mr, Percival James R,male,Male,27,Young Adult,0,0,1, $26 ,S,SouthHampton
+553,Not Survived,3,Third Class,O'Brien, Mr, Timothy,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+554,Survived,3,Third Class,Leeni, Mr," Fahim (""Philip Zenni"")",male,Male,22,Young Adult,0,0,1, $7 ,C,Cherbourg
+555,Survived,3,Third Class,Ohman, Miss, Velin,female,Female,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+556,Not Survived,1,First Class,Wright, Mr, George,male,Male,62,Senior Citizen,0,0,1, $27 ,S,SouthHampton
+557,Survived,1,First Class,Duff Gordon, Lady," (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,Female,48,Adult,1,0,2, $40 ,C,Cherbourg
+558,Not Survived,1,First Class,Robbins, Mr, Victor,male,Male,30,Young Adult,0,0,1, $228 ,C,Cherbourg
+559,Survived,1,First Class,Taussig, Mrs, Emil (Tillie Mandelbaum),female,Female,39,Adult,1,1,3, $80 ,S,SouthHampton
+560,Survived,3,Third Class,de Messemaeker, Mrs, Guillaume Joseph (Emma),female,Female,36,Adult,1,0,2, $17 ,S,SouthHampton
+561,Not Survived,3,Third Class,Morrow, Mr, Thomas Rowan,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+562,Not Survived,3,Third Class,Sivic, Mr, Husein,male,Male,40,Adult,0,0,1, $8 ,S,SouthHampton
+563,Not Survived,2,Second Class,Norman, Mr, Robert Douglas,male,Male,28,Young Adult,0,0,1, $14 ,S,SouthHampton
+564,Not Survived,3,Third Class,Simmons, Mr, John,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+565,Not Survived,3,Third Class,Meanwell, Miss, (Marion Ogden),female,Female,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+566,Not Survived,3,Third Class,Davies, Mr, Alfred J,male,Male,24,Young Adult,2,0,3, $24 ,S,SouthHampton
+567,Not Survived,3,Third Class,Stoytcheff, Mr, Ilia,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+568,Not Survived,3,Third Class,Palsson, Mrs, Nils (Alma Cornelia Berglund),female,Female,29,Young Adult,0,4,5, $21 ,S,SouthHampton
+569,Not Survived,3,Third Class,Doharr, Mr, Tannous,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+570,Survived,3,Third Class,Jonsson, Mr, Carl,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+571,Survived,2,Second Class,Harris, Mr, George,male,Male,62,Senior Citizen,0,0,1, $11 ,S,SouthHampton
+572,Survived,1,First Class,Appleton, Mrs, Edward Dale (Charlotte Lamson),female,Female,53,Adult,2,0,3, $51 ,S,SouthHampton
+573,Survived,1,First Class,Flynn, Mr," John Irwin (""Irving"")",male,Male,36,Adult,0,0,1, $26 ,S,SouthHampton
+574,Survived,3,Third Class,Kelly, Miss, Mary,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+575,Not Survived,3,Third Class,Rush, Mr, Alfred George John,male,Male,16,Teenager,0,0,1, $8 ,S,SouthHampton
+576,Not Survived,3,Third Class,Patchett, Mr, George,male,Male,19,Young Adult,0,0,1, $15 ,S,SouthHampton
+577,Survived,2,Second Class,Garside, Miss, Ethel,female,Female,34,Adult,0,0,1, $13 ,S,SouthHampton
+578,Survived,1,First Class,Silvey, Mrs, William Baird (Alice Munger),female,Female,39,Adult,1,0,2, $56 ,S,SouthHampton
+579,Not Survived,3,Third Class,Caram, Mrs, Joseph (Maria Elias),female,Female,30,Young Adult,1,0,2, $14 ,C,Cherbourg
+580,Survived,3,Third Class,Jussila, Mr, Eiriik,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+581,Survived,2,Second Class,Christy, Miss, Julie Rachel,female,Female,25,Young Adult,1,1,3, $30 ,S,SouthHampton
+582,Survived,1,First Class,Thayer, Mrs, John Borland (Marian Longstreth Morris),female,Female,39,Adult,1,1,3, $111 ,C,Cherbourg
+583,Not Survived,2,Second Class,Downton, Mr, William James,male,Male,54,Adult,0,0,1, $26 ,S,SouthHampton
+584,Not Survived,1,First Class,Ross, Mr, John Hugo,male,Male,36,Adult,0,0,1, $40 ,C,Cherbourg
+585,Not Survived,3,Third Class,Paulner, Mr, Uscher,male,Male,30,Young Adult,0,0,1, $9 ,C,Cherbourg
+586,Survived,1,First Class,Taussig, Miss, Ruth,female,Female,18,Teenager,0,2,3, $80 ,S,SouthHampton
+587,Not Survived,2,Second Class,Jarvis, Mr, John Denzil,male,Male,47,Adult,0,0,1, $15 ,S,SouthHampton
+588,Survived,1,First Class,Frolicher-Stehli, Mr, Maxmillian,male,Male,60,Senior Citizen,1,1,3, $79 ,C,Cherbourg
+589,Not Survived,3,Third Class,Gilinski, Mr, Eliezer,male,Male,22,Young Adult,0,0,1, $8 ,S,SouthHampton
+590,Not Survived,3,Third Class,Murdlin, Mr, Joseph,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+591,Not Survived,3,Third Class,Rintamaki, Mr, Matti,male,Male,35,Adult,0,0,1, $7 ,S,SouthHampton
+592,Survived,1,First Class,Stephenson, Mrs, Walter Bertram (Martha Eustis),female,Female,52,Adult,1,0,2, $78 ,C,Cherbourg
+593,Not Survived,3,Third Class,Elsbury, Mr, William James,male,Male,47,Adult,0,0,1, $7 ,S,SouthHampton
+594,Not Survived,3,Third Class,Bourke, Miss, Mary,female,Female,30,Young Adult,0,2,3, $8 ,Q,QueenTown
+595,Not Survived,2,Second Class,Chapman, Mr, John Henry,male,Male,37,Adult,1,0,2, $26 ,S,SouthHampton
+596,Not Survived,3,Third Class,Van Impe, Mr, Jean Baptiste,male,Male,36,Adult,1,1,3, $24 ,S,SouthHampton
+597,Survived,2,Second Class,Leitch, Miss, Jessie Wills,female,Female,30,Young Adult,0,0,1, $33 ,S,SouthHampton
+598,Not Survived,3,Third Class,Johnson, Mr, Alfred,male,Male,49,Adult,0,0,1, $-   ,S,SouthHampton
+599,Not Survived,3,Third Class,Boulos, Mr, Hanna,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+600,Survived,1,First Class,Duff Gordon, Sir," Cosmo Edmund (""Mr Morgan"")",male,Male,49,Adult,1,0,2, $57 ,C,Cherbourg
+601,Survived,2,Second Class,Jacobsohn, Mrs, Sidney Samuel (Amy Frances Christy),female,Female,24,Young Adult,2,1,4, $27 ,S,SouthHampton
+602,Not Survived,3,Third Class,Slabenoff, Mr, Petco,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+603,Not Survived,1,First Class,Harrington, Mr, Charles H,male,Male,30,Young Adult,0,0,1, $42 ,S,SouthHampton
+604,Not Survived,3,Third Class,Torber, Mr, Ernst William,male,Male,44,Adult,0,0,1, $8 ,S,SouthHampton
+605,Survived,1,First Class,Homer, Mr," Harry (""Mr E Haven"")",male,Male,35,Adult,0,0,1, $27 ,C,Cherbourg
+606,Not Survived,3,Third Class,Lindell, Mr, Edvard Bengtsson,male,Male,36,Adult,1,0,2, $16 ,S,SouthHampton
+607,Not Survived,3,Third Class,Karaic, Mr, Milan,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+608,Survived,1,First Class,Daniel, Mr, Robert Williams,male,Male,27,Young Adult,0,0,1, $31 ,S,SouthHampton
+609,Survived,2,Second Class,Laroche, Mrs, Joseph (Juliette Marie Louise Lafargue),female,Female,22,Young Adult,1,2,4, $42 ,C,Cherbourg
+610,Survived,1,First Class,Shutes, Miss, Elizabeth W,female,Female,40,Adult,0,0,1, $153 ,S,SouthHampton
+611,Not Survived,3,Third Class,Andersson, Mrs, Anders Johan (Alfrida Konstantia Brogren),female,Female,39,Adult,1,5,7, $31 ,S,SouthHampton
+612,Not Survived,3,Third Class,Jardin, Mr, Jose Neto,male,Male,30,Young Adult,0,0,1, $7 ,S,SouthHampton
+613,Survived,3,Third Class,Murphy, Miss, Margaret Jane,female,Female,30,Young Adult,1,0,2, $16 ,Q,QueenTown
+614,Not Survived,3,Third Class,Horgan, Mr, John,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+615,Not Survived,3,Third Class,Brocklebank, Mr, William Alfred,male,Male,35,Adult,0,0,1, $8 ,S,SouthHampton
+616,Survived,2,Second Class,Herman, Miss, Alice,female,Female,24,Young Adult,1,2,4, $65 ,S,SouthHampton
+617,Not Survived,3,Third Class,Danbom, Mr, Ernst Gilbert,male,Male,34,Adult,1,1,3, $14 ,S,SouthHampton
+618,Not Survived,3,Third Class,Lobb, Mrs, William Arthur (Cordelia K Stanlick),female,Female,26,Young Adult,1,0,2, $16 ,S,SouthHampton
+619,Survived,2,Second Class,Becker, Miss, Marion Louise,female,Female,4,Child,2,1,4, $39 ,S,SouthHampton
+620,Not Survived,2,Second Class,Gavey, Mr, Lawrence,male,Male,26,Young Adult,0,0,1, $11 ,S,SouthHampton
+621,Not Survived,3,Third Class,Yasbeck, Mr, Antoni,male,Male,27,Young Adult,1,0,2, $14 ,C,Cherbourg
+622,Survived,1,First Class,Kimball, Mr, Edwin Nelson Jr,male,Male,42,Adult,1,0,2, $53 ,S,SouthHampton
+623,Survived,3,Third Class,Nakid, Mr, Sahid,male,Male,20,Young Adult,1,1,3, $16 ,C,Cherbourg
+624,Not Survived,3,Third Class,Hansen, Mr, Henry Damsgaard,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+625,Not Survived,3,Third Class,Bowen, Mr," David John ""Dai""",male,Male,21,Young Adult,0,0,1, $16 ,S,SouthHampton
+626,Not Survived,1,First Class,Sutton, Mr, Frederick,male,Male,61,Senior Citizen,0,0,1, $32 ,S,SouthHampton
+627,Not Survived,2,Second Class,Kirkland, Rev, Charles Leonard,male,Male,57,Adult,0,0,1, $12 ,Q,QueenTown
+628,Survived,1,First Class,Longley, Miss, Gretchen Fiske,female,Female,21,Young Adult,0,0,1, $78 ,S,SouthHampton
+629,Not Survived,3,Third Class,Bostandyeff, Mr, Guentcho,male,Male,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+630,Not Survived,3,Third Class,O'Connell, Mr, Patrick D,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+631,Survived,1,First Class,Barkworth, Mr, Algernon Henry Wilson,male,Male,80,Senior Citizen,0,0,1, $30 ,S,SouthHampton
+632,Not Survived,3,Third Class,Lundahl, Mr, Johan Svensson,male,Male,51,Adult,0,0,1, $7 ,S,SouthHampton
+633,Survived,1,First Class,Stahelin-Maeglin, Dr, Max,male,Male,32,Adult,0,0,1, $31 ,C,Cherbourg
+634,Not Survived,1,First Class,Parr, Mr, William Henry Marsh,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+635,Not Survived,3,Third Class,Skoog, Miss, Mabel,female,Female,9,Child,3,2,6, $28 ,S,SouthHampton
+636,Survived,2,Second Class,Davis, Miss, Mary,female,Female,28,Young Adult,0,0,1, $13 ,S,SouthHampton
+637,Not Survived,3,Third Class,Leinonen, Mr, Antti Gustaf,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+638,Not Survived,2,Second Class,Collyer, Mr, Harvey,male,Male,31,Adult,1,1,3, $26 ,S,SouthHampton
+639,Not Survived,3,Third Class,Panula, Mrs, Juha (Maria Emilia Ojala),female,Female,41,Adult,0,5,6, $40 ,S,SouthHampton
+640,Not Survived,3,Third Class,Thorneycroft, Mr, Percival,male,Male,30,Young Adult,1,0,2, $16 ,S,SouthHampton
+641,Not Survived,3,Third Class,Jensen, Mr, Hans Peder,male,Male,20,Young Adult,0,0,1, $8 ,S,SouthHampton
+642,Survived,1,First Class,Sagesser, Mlle, Emma,female,Female,24,Young Adult,0,0,1, $69 ,C,Cherbourg
+643,Not Survived,3,Third Class,Skoog, Miss, Margit Elizabeth,female,Female,2,Child,3,2,6, $28 ,S,SouthHampton
+644,Survived,3,Third Class,Foo, Mr, Choong,male,Male,30,Young Adult,0,0,1, $56 ,S,SouthHampton
+645,Survived,3,Third Class,Baclini, Miss, Eugenie,female,Female,0.75,Child,2,1,4, $19 ,C,Cherbourg
+646,Survived,1,First Class,Harper, Mr, Henry Sleeper,male,Male,48,Adult,1,0,2, $77 ,C,Cherbourg
+647,Not Survived,3,Third Class,Cor, Mr, Liudevit,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+648,Survived,1,First Class,Simonius-Blumer, Col, Oberst Alfons,male,Male,56,Adult,0,0,1, $36 ,C,Cherbourg
+649,Not Survived,3,Third Class,Willey, Mr, Edward,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+650,Survived,3,Third Class,Stanley, Miss, Amy Zillah Elsie,female,Female,23,Young Adult,0,0,1, $8 ,S,SouthHampton
+651,Not Survived,3,Third Class,Mitkoff, Mr, Mito,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+652,Survived,2,Second Class,Doling, Miss, Elsie,female,Female,18,Teenager,0,1,2, $23 ,S,SouthHampton
+653,Not Survived,3,Third Class,Kalvik, Mr, Johannes Halvorsen,male,Male,21,Young Adult,0,0,1, $8 ,S,SouthHampton
+654,Survived,3,Third Class,O'Leary, Miss," Hanora ""Norah""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+655,Not Survived,3,Third Class,Hegarty, Miss," Hanora ""Nora""",female,Female,18,Teenager,0,0,1, $7 ,Q,QueenTown
+656,Not Survived,2,Second Class,Hickman, Mr, Leonard Mark,male,Male,24,Young Adult,2,0,3, $74 ,S,SouthHampton
+657,Not Survived,3,Third Class,Radeff, Mr, Alexander,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+658,Not Survived,3,Third Class,Bourke, Mrs, John (Catherine),female,Female,32,Adult,1,1,3, $16 ,Q,QueenTown
+659,Not Survived,2,Second Class,Eitemiller, Mr, George Floyd,male,Male,23,Young Adult,0,0,1, $13 ,S,SouthHampton
+660,Not Survived,1,First Class,Newell, Mr, Arthur Webster,male,Male,58,Adult,0,2,3, $113 ,C,Cherbourg
+661,Survived,1,First Class,Frauenthal, Dr, Henry William,male,Male,50,Adult,2,0,3, $134 ,S,SouthHampton
+662,Not Survived,3,Third Class,Badt, Mr, Mohamed,male,Male,40,Adult,0,0,1, $7 ,C,Cherbourg
+663,Not Survived,1,First Class,Colley, Mr, Edward Pomeroy,male,Male,47,Adult,0,0,1, $26 ,S,SouthHampton
+664,Not Survived,3,Third Class,Coleff, Mr, Peju,male,Male,36,Adult,0,0,1, $7 ,S,SouthHampton
+665,Survived,3,Third Class,Lindqvist, Mr, Eino William,male,Male,20,Young Adult,1,0,2, $8 ,S,SouthHampton
+666,Not Survived,2,Second Class,Hickman, Mr, Lewis,male,Male,32,Adult,2,0,3, $74 ,S,SouthHampton
+667,Not Survived,2,Second Class,Butler, Mr, Reginald Fenton,male,Male,25,Young Adult,0,0,1, $13 ,S,SouthHampton
+668,Not Survived,3,Third Class,Rommetvedt, Mr, Knud Paust,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+669,Not Survived,3,Third Class,Cook, Mr, Jacob,male,Male,43,Adult,0,0,1, $8 ,S,SouthHampton
+670,Survived,1,First Class,Taylor, Mrs, Elmer Zebley (Juliet Cummins Wright),female,Female,30,Young Adult,1,0,2, $52 ,S,SouthHampton
+671,Survived,2,Second Class,Brown, Mrs, Thomas William Solomon (Elizabeth Catherine Ford),female,Female,40,Adult,1,1,3, $39 ,S,SouthHampton
+672,Not Survived,1,First Class,Davidson, Mr, Thornton,male,Male,31,Adult,1,0,2, $52 ,S,SouthHampton
+673,Not Survived,2,Second Class,Mitchell, Mr, Henry Michael,male,Male,70,Senior Citizen,0,0,1, $11 ,S,SouthHampton
+674,Survived,2,Second Class,Wilhelms, Mr, Charles,male,Male,31,Adult,0,0,1, $13 ,S,SouthHampton
+675,Not Survived,2,Second Class,Watson, Mr, Ennis Hastings,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+676,Not Survived,3,Third Class,Edvardsson, Mr, Gustaf Hjalmar,male,Male,18,Teenager,0,0,1, $8 ,S,SouthHampton
+677,Not Survived,3,Third Class,Sawyer, Mr, Frederick Charles,male,Male,24.5,Young Adult,0,0,1, $8 ,S,SouthHampton
+678,Survived,3,Third Class,Turja, Miss, Anna Sofia,female,Female,18,Teenager,0,0,1, $10 ,S,SouthHampton
+679,Not Survived,3,Third Class,Goodwin, Mrs, Frederick (Augusta Tyler),female,Female,43,Adult,1,6,8, $47 ,S,SouthHampton
+680,Survived,1,First Class,Cardeza, Mr, Thomas Drake Martinez,male,Male,36,Adult,0,1,2, $512 ,C,Cherbourg
+681,Not Survived,3,Third Class,Peters, Miss, Katie,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+682,Survived,1,First Class,Hassab, Mr, Hammad,male,Male,27,Young Adult,0,0,1, $77 ,C,Cherbourg
+683,Not Survived,3,Third Class,Olsvigen, Mr, Thor Anderson,male,Male,20,Young Adult,0,0,1, $9 ,S,SouthHampton
+684,Not Survived,3,Third Class,Goodwin, Mr, Charles Edward,male,Male,14,Teenager,5,2,8, $47 ,S,SouthHampton
+685,Not Survived,2,Second Class,Brown, Mr, Thomas William Solomon,male,Male,60,Senior Citizen,1,1,3, $39 ,S,SouthHampton
+686,Not Survived,2,Second Class,Laroche, Mr, Joseph Philippe Lemercier,male,Male,25,Young Adult,1,2,4, $42 ,C,Cherbourg
+687,Not Survived,3,Third Class,Panula, Mr, Jaako Arnold,male,Male,14,Teenager,4,1,6, $40 ,S,SouthHampton
+688,Not Survived,3,Third Class,Dakic, Mr, Branko,male,Male,19,Young Adult,0,0,1, $10 ,S,SouthHampton
+689,Not Survived,3,Third Class,Fischer, Mr, Eberhard Thelander,male,Male,18,Teenager,0,0,1, $8 ,S,SouthHampton
+690,Survived,1,First Class,Madill, Miss, Georgette Alexandra,female,Female,15,Teenager,0,1,2, $211 ,S,SouthHampton
+691,Survived,1,First Class,Dick, Mr, Albert Adrian,male,Male,31,Adult,1,0,2, $57 ,S,SouthHampton
+692,Survived,3,Third Class,Karun, Miss, Manca,female,Female,4,Child,0,1,2, $13 ,C,Cherbourg
+693,Survived,3,Third Class,Lam, Mr, Ali,male,Male,30,Young Adult,0,0,1, $56 ,S,SouthHampton
+694,Not Survived,3,Third Class,Saad, Mr, Khalil,male,Male,25,Young Adult,0,0,1, $7 ,C,Cherbourg
+695,Not Survived,1,First Class,Weir, Col, John,male,Male,60,Senior Citizen,0,0,1, $27 ,S,SouthHampton
+696,Not Survived,2,Second Class,Chapman, Mr, Charles Henry,male,Male,52,Adult,0,0,1, $14 ,S,SouthHampton
+697,Not Survived,3,Third Class,Kelly, Mr, James,male,Male,44,Adult,0,0,1, $8 ,S,SouthHampton
+698,Survived,3,Third Class,Mullens, Miss," Katherine ""Katie""",female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+699,Not Survived,1,First Class,Thayer, Mr, John Borland,male,Male,49,Adult,1,1,3, $111 ,C,Cherbourg
+700,Not Survived,3,Third Class,Humblen, Mr, Adolf Mathias Nicolai Olsen,male,Male,42,Adult,0,0,1, $8 ,S,SouthHampton
+701,Survived,1,First Class,Astor, Mrs, John Jacob (Madeleine Talmadge Force),female,Female,18,Teenager,1,0,2, $228 ,C,Cherbourg
+702,Survived,1,First Class,Silverthorne, Mr, Spencer Victor,male,Male,35,Adult,0,0,1, $26 ,S,SouthHampton
+703,Not Survived,3,Third Class,Barbara, Miss, Saiide,female,Female,18,Teenager,0,1,2, $14 ,C,Cherbourg
+704,Not Survived,3,Third Class,Gallagher, Mr, Martin,male,Male,25,Young Adult,0,0,1, $8 ,Q,QueenTown
+705,Not Survived,3,Third Class,Hansen, Mr, Henrik Juul,male,Male,26,Young Adult,1,0,2, $8 ,S,SouthHampton
+706,Not Survived,2,Second Class,Morley, Mr," Henry Samuel (""Mr Henry Marshall"")",male,Male,39,Adult,0,0,1, $26 ,S,SouthHampton
+707,Survived,2,Second Class,Kelly, Mrs," Florence ""Fannie""",female,Female,45,Adult,0,0,1, $14 ,S,SouthHampton
+708,Survived,1,First Class,Calderhead, Mr, Edward Pennington,male,Male,42,Adult,0,0,1, $26 ,S,SouthHampton
+709,Survived,1,First Class,Cleaver, Miss, Alice,female,Female,22,Young Adult,0,0,1, $152 ,S,SouthHampton
+710,Survived,3,Third Class,Moubarek, Master," Halim Gonios (""William George"")",male,Male,30,Young Adult,1,1,3, $15 ,C,Cherbourg
+711,Survived,1,First Class,Mayne, Mlle," Berthe Antonine (""Mrs de Villiers"")",female,Female,24,Young Adult,0,0,1, $50 ,C,Cherbourg
+712,Not Survived,1,First Class,Klaber, Mr, Herman,male,Male,30,Young Adult,0,0,1, $27 ,S,SouthHampton
+713,Survived,1,First Class,Taylor, Mr, Elmer Zebley,male,Male,48,Adult,1,0,2, $52 ,S,SouthHampton
+714,Not Survived,3,Third Class,Larsson, Mr, August Viktor,male,Male,29,Young Adult,0,0,1, $9 ,S,SouthHampton
+715,Not Survived,2,Second Class,Greenberg, Mr, Samuel,male,Male,52,Adult,0,0,1, $13 ,S,SouthHampton
+716,Not Survived,3,Third Class,Soholt, Mr, Peter Andreas Lauritz Andersen,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+717,Survived,1,First Class,Endres, Miss, Caroline Louise,female,Female,38,Adult,0,0,1, $228 ,C,Cherbourg
+718,Survived,2,Second Class,Troutt, Miss," Edwina Celia ""Winnie""",female,Female,27,Young Adult,0,0,1, $11 ,S,SouthHampton
+719,Not Survived,3,Third Class,McEvoy, Mr, Michael,male,Male,30,Young Adult,0,0,1, $16 ,Q,QueenTown
+720,Not Survived,3,Third Class,Johnson, Mr, Malkolm Joackim,male,Male,33,Adult,0,0,1, $8 ,S,SouthHampton
+721,Survived,2,Second Class,Harper, Miss," Annie Jessie ""Nina""",female,Female,6,Child,0,1,2, $33 ,S,SouthHampton
+722,Not Survived,3,Third Class,Jensen, Mr, Svend Lauritz,male,Male,17,Teenager,1,0,2, $7 ,S,SouthHampton
+723,Not Survived,2,Second Class,Gillespie, Mr, William Henry,male,Male,34,Adult,0,0,1, $13 ,S,SouthHampton
+724,Not Survived,2,Second Class,Hodges, Mr, Henry Price,male,Male,50,Adult,0,0,1, $13 ,S,SouthHampton
+725,Survived,1,First Class,Chambers, Mr, Norman Campbell,male,Male,27,Young Adult,1,0,2, $53 ,S,SouthHampton
+726,Not Survived,3,Third Class,Oreskovic, Mr, Luka,male,Male,20,Young Adult,0,0,1, $9 ,S,SouthHampton
+727,Survived,2,Second Class,Renouf, Mrs, Peter Henry (Lillian Jefferys),female,Female,30,Young Adult,3,0,4, $21 ,S,SouthHampton
+728,Survived,3,Third Class,Mannion, Miss, Margareth,female,Female,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+729,Not Survived,2,Second Class,Bryhl, Mr, Kurt Arnold Gottfrid,male,Male,25,Young Adult,1,0,2, $26 ,S,SouthHampton
+730,Not Survived,3,Third Class,Ilmakangas, Miss, Pieta Sofia,female,Female,25,Young Adult,1,0,2, $8 ,S,SouthHampton
+731,Survived,1,First Class,Allen, Miss, Elisabeth Walton,female,Female,29,Young Adult,0,0,1, $211 ,S,SouthHampton
+732,Not Survived,3,Third Class,Hassan, Mr, Houssein G N,male,Male,11,Child,0,0,1, $19 ,C,Cherbourg
+733,Not Survived,2,Second Class,Knight, Mr, Robert J,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+734,Not Survived,2,Second Class,Berriman, Mr, William John,male,Male,23,Young Adult,0,0,1, $13 ,S,SouthHampton
+735,Not Survived,2,Second Class,Troupiansky, Mr, Moses Aaron,male,Male,23,Young Adult,0,0,1, $13 ,S,SouthHampton
+736,Not Survived,3,Third Class,Williams, Mr, Leslie,male,Male,28.5,Young Adult,0,0,1, $16 ,S,SouthHampton
+737,Not Survived,3,Third Class,Ford, Mrs, Edward (Margaret Ann Watson),female,Female,48,Adult,1,3,5, $34 ,S,SouthHampton
+738,Survived,1,First Class,Lesurer, Mr, Gustave J,male,Male,35,Adult,0,0,1, $512 ,C,Cherbourg
+739,Not Survived,3,Third Class,Ivanoff, Mr, Kanio,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+740,Not Survived,3,Third Class,Nankoff, Mr, Minko,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+741,Survived,1,First Class,Hawksford, Mr, Walter James,male,Male,30,Young Adult,0,0,1, $30 ,S,SouthHampton
+742,Not Survived,1,First Class,Cavendish, Mr, Tyrell William,male,Male,36,Adult,1,0,2, $79 ,S,SouthHampton
+743,Survived,1,First Class,Ryerson, Miss," Susan Parker ""Suzette""",female,Female,21,Young Adult,2,2,5, $262 ,C,Cherbourg
+744,Not Survived,3,Third Class,McNamee, Mr, Neal,male,Male,24,Young Adult,1,0,2, $16 ,S,SouthHampton
+745,Survived,3,Third Class,Stranden, Mr, Juho,male,Male,31,Adult,0,0,1, $8 ,S,SouthHampton
+746,Not Survived,1,First Class,Crosby, Capt, Edward Gifford,male,Male,70,Senior Citizen,1,1,3, $71 ,S,SouthHampton
+747,Not Survived,3,Third Class,Abbott, Mr, Rossmore Edward,male,Male,16,Teenager,1,1,3, $20 ,S,SouthHampton
+748,Survived,2,Second Class,Sinkkonen, Miss, Anna,female,Female,30,Young Adult,0,0,1, $13 ,S,SouthHampton
+749,Not Survived,1,First Class,Marvin, Mr, Daniel Warner,male,Male,19,Young Adult,1,0,2, $53 ,S,SouthHampton
+750,Not Survived,3,Third Class,Connaghton, Mr, Michael,male,Male,31,Adult,0,0,1, $8 ,Q,QueenTown
+751,Survived,2,Second Class,Wells, Miss, Joan,female,Female,4,Child,1,1,3, $23 ,S,SouthHampton
+752,Survived,3,Third Class,Moor, Master, Meier,male,Male,6,Child,0,1,2, $12 ,S,SouthHampton
+753,Not Survived,3,Third Class,Vande Velde, Mr, Johannes Joseph,male,Male,33,Adult,0,0,1, $10 ,S,SouthHampton
+754,Not Survived,3,Third Class,Jonkoff, Mr, Lalio,male,Male,23,Young Adult,0,0,1, $8 ,S,SouthHampton
+755,Survived,2,Second Class,Herman, Mrs, Samuel (Jane Laver),female,Female,48,Adult,1,2,4, $65 ,S,SouthHampton
+756,Survived,2,Second Class,Hamalainen, Master, Viljo,male,Male,0.67,Child,1,1,3, $15 ,S,SouthHampton
+757,Not Survived,3,Third Class,Carlsson, Mr, August Sigfrid,male,Male,28,Young Adult,0,0,1, $8 ,S,SouthHampton
+758,Not Survived,2,Second Class,Bailey, Mr, Percy Andrew,male,Male,18,Teenager,0,0,1, $12 ,S,SouthHampton
+759,Not Survived,3,Third Class,Theobald, Mr, Thomas Leonard,male,Male,34,Adult,0,0,1, $8 ,S,SouthHampton
+760,Survived,1,First Class,Rothes, the Countess, of (Lucy Noel Martha Dyer-Edwards),female,Female,33,Adult,0,0,1, $87 ,S,SouthHampton
+761,Not Survived,3,Third Class,Garfirth, Mr, John,male,Male,30,Young Adult,0,0,1, $15 ,S,SouthHampton
+762,Not Survived,3,Third Class,Nirva, Mr, Iisakki Antino Aijo,male,Male,41,Adult,0,0,1, $7 ,S,SouthHampton
+763,Survived,3,Third Class,Barah, Mr, Hanna Assi,male,Male,20,Young Adult,0,0,1, $7 ,C,Cherbourg
+764,Survived,1,First Class,Carter, Mrs, William Ernest (Lucile Polk),female,Female,36,Adult,1,2,4, $120 ,S,SouthHampton
+765,Not Survived,3,Third Class,Eklund, Mr, Hans Linus,male,Male,16,Teenager,0,0,1, $8 ,S,SouthHampton
+766,Survived,1,First Class,Hogeboom, Mrs, John C (Anna Andrews),female,Female,51,Adult,1,0,2, $78 ,S,SouthHampton
+767,Not Survived,1,First Class,Brewe, Dr, Arthur Jackson,male,Male,30,Young Adult,0,0,1, $40 ,C,Cherbourg
+768,Not Survived,3,Third Class,Mangan, Miss, Mary,female,Female,30.5,Adult,0,0,1, $8 ,Q,QueenTown
+769,Not Survived,3,Third Class,Moran, Mr, Daniel J,male,Male,30,Young Adult,1,0,2, $24 ,Q,QueenTown
+770,Not Survived,3,Third Class,Gronnestad, Mr, Daniel Danielsen,male,Male,32,Adult,0,0,1, $8 ,S,SouthHampton
+771,Not Survived,3,Third Class,Lievens, Mr, Rene Aime,male,Male,24,Young Adult,0,0,1, $10 ,S,SouthHampton
+772,Not Survived,3,Third Class,Jensen, Mr, Niels Peder,male,Male,48,Adult,0,0,1, $8 ,S,SouthHampton
+773,Not Survived,2,Second Class,Mack, Mrs, (Mary),female,Female,57,Adult,0,0,1, $11 ,S,SouthHampton
+774,Not Survived,3,Third Class,Elias, Mr, Dibo,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+775,Survived,2,Second Class,Hocking, Mrs, Elizabeth (Eliza Needs),female,Female,54,Adult,1,3,5, $23 ,S,SouthHampton
+776,Not Survived,3,Third Class,Myhrman, Mr, Pehr Fabian Oliver Malkolm,male,Male,18,Teenager,0,0,1, $8 ,S,SouthHampton
+777,Not Survived,3,Third Class,Tobin, Mr, Roger,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+778,Survived,3,Third Class,Emanuel, Miss, Virginia Ethel,female,Female,5,Child,0,0,1, $12 ,S,SouthHampton
+779,Not Survived,3,Third Class,Kilgannon, Mr, Thomas J,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+780,Survived,1,First Class,Robert, Mrs, Edward Scott (Elisabeth Walton McMillan),female,Female,43,Adult,0,1,2, $211 ,S,SouthHampton
+781,Survived,3,Third Class,Ayoub, Miss, Banoura,female,Female,13,Child,0,0,1, $7 ,C,Cherbourg
+782,Survived,1,First Class,Dick, Mrs, Albert Adrian (Vera Gillespie),female,Female,17,Teenager,1,0,2, $57 ,S,SouthHampton
+783,Not Survived,1,First Class,Long, Mr, Milton Clyde,male,Male,29,Young Adult,0,0,1, $30 ,S,SouthHampton
+784,Not Survived,3,Third Class,Johnston, Mr, Andrew G,male,Male,30,Young Adult,1,2,4, $23 ,S,SouthHampton
+785,Not Survived,3,Third Class,Ali, Mr, William,male,Male,25,Young Adult,0,0,1, $7 ,S,SouthHampton
+786,Not Survived,3,Third Class,Harmer, Mr, Abraham (David Lishin),male,Male,25,Young Adult,0,0,1, $7 ,S,SouthHampton
+787,Survived,3,Third Class,Sjoblom, Miss, Anna Sofia,female,Female,18,Teenager,0,0,1, $7 ,S,SouthHampton
+788,Not Survived,3,Third Class,Rice, Master, George Hugh,male,Male,8,Child,4,1,6, $29 ,Q,QueenTown
+789,Survived,3,Third Class,Dean, Master, Bertram Vere,male,Male,1,Child,1,2,4, $21 ,S,SouthHampton
+790,Not Survived,1,First Class,Guggenheim, Mr, Benjamin,male,Male,46,Adult,0,0,1, $79 ,C,Cherbourg
+791,Not Survived,3,Third Class,Keane, Mr," Andrew ""Andy""",male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+792,Not Survived,2,Second Class,Gaskell, Mr, Alfred,male,Male,16,Teenager,0,0,1, $26 ,S,SouthHampton
+793,Not Survived,3,Third Class,Sage, Miss, Stella Anna,female,Female,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+794,Not Survived,1,First Class,Hoyt, Mr, William Fisher,male,Male,30,Young Adult,0,0,1, $31 ,C,Cherbourg
+795,Not Survived,3,Third Class,Dantcheff, Mr, Ristiu,male,Male,25,Young Adult,0,0,1, $8 ,S,SouthHampton
+796,Not Survived,2,Second Class,Otter, Mr, Richard,male,Male,39,Adult,0,0,1, $13 ,S,SouthHampton
+797,Survived,1,First Class,Leader, Dr, Alice (Farnham),female,Female,49,Adult,0,0,1, $26 ,S,SouthHampton
+798,Survived,3,Third Class,Osman, Mrs, Mara,female,Female,31,Adult,0,0,1, $9 ,S,SouthHampton
+799,Not Survived,3,Third Class,Ibrahim Shawah, Mr, Yousseff,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+800,Not Survived,3,Third Class,Van Impe, Mrs, Jean Baptiste (Rosalie Paula Govaert),female,Female,30,Young Adult,1,1,3, $24 ,S,SouthHampton
+801,Not Survived,2,Second Class,Ponesell, Mr, Martin,male,Male,34,Adult,0,0,1, $13 ,S,SouthHampton
+802,Survived,2,Second Class,Collyer, Mrs, Harvey (Charlotte Annie Tate),female,Female,31,Adult,1,1,3, $26 ,S,SouthHampton
+803,Survived,1,First Class,Carter, Master, William Thornton II,male,Male,11,Child,1,2,4, $120 ,S,SouthHampton
+804,Survived,3,Third Class,Thomas, Master, Assad Alexander,male,Male,0.42,Child,0,1,2, $9 ,C,Cherbourg
+805,Survived,3,Third Class,Hedman, Mr, Oskar Arvid,male,Male,27,Young Adult,0,0,1, $7 ,S,SouthHampton
+806,Not Survived,3,Third Class,Johansson, Mr, Karl Johan,male,Male,31,Adult,0,0,1, $8 ,S,SouthHampton
+807,Not Survived,1,First Class,Andrews, Mr, Thomas Jr,male,Male,39,Adult,0,0,1, $-   ,S,SouthHampton
+808,Not Survived,3,Third Class,Pettersson, Miss, Ellen Natalia,female,Female,18,Teenager,0,0,1, $8 ,S,SouthHampton
+809,Not Survived,2,Second Class,Meyer, Mr, August,male,Male,39,Adult,0,0,1, $13 ,S,SouthHampton
+810,Survived,1,First Class,Chambers, Mrs, Norman Campbell (Bertha Griggs),female,Female,33,Adult,1,0,2, $53 ,S,SouthHampton
+811,Not Survived,3,Third Class,Alexander, Mr, William,male,Male,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+812,Not Survived,3,Third Class,Lester, Mr, James,male,Male,39,Adult,0,0,1, $24 ,S,SouthHampton
+813,Not Survived,2,Second Class,Slemen, Mr, Richard James,male,Male,35,Adult,0,0,1, $11 ,S,SouthHampton
+814,Not Survived,3,Third Class,Andersson, Miss, Ebba Iris Alfrida,female,Female,6,Child,4,2,7, $31 ,S,SouthHampton
+815,Not Survived,3,Third Class,Tomlin, Mr, Ernest Portage,male,Male,30.5,Adult,0,0,1, $8 ,S,SouthHampton
+816,Not Survived,1,First Class,Fry, Mr, Richard,male,Male,30,Young Adult,0,0,1, $-   ,S,SouthHampton
+817,Not Survived,3,Third Class,Heininen, Miss, Wendla Maria,female,Female,23,Young Adult,0,0,1, $8 ,S,SouthHampton
+818,Not Survived,2,Second Class,Mallet, Mr, Albert,male,Male,31,Adult,1,1,3, $37 ,C,Cherbourg
+819,Not Survived,3,Third Class,Holm, Mr, John Fredrik Alexander,male,Male,43,Adult,0,0,1, $6 ,S,SouthHampton
+820,Not Survived,3,Third Class,Skoog, Master, Karl Thorsten,male,Male,10,Child,3,2,6, $28 ,S,SouthHampton
+821,Survived,1,First Class,Hays, Mrs, Charles Melville (Clara Jennings Gregg),female,Female,52,Adult,1,1,3, $94 ,S,SouthHampton
+822,Survived,3,Third Class,Lulic, Mr, Nikola,male,Male,27,Young Adult,0,0,1, $9 ,S,SouthHampton
+823,Not Survived,1,First Class,Reuchlin, Jonkheer, John George,male,Male,38,Adult,0,0,1, $-   ,S,SouthHampton
+824,Survived,3,Third Class,Moor, Mrs, (Beila),female,Female,27,Young Adult,0,1,2, $12 ,S,SouthHampton
+825,Not Survived,3,Third Class,Panula, Master, Urho Abraham,male,Male,2,Child,4,1,6, $40 ,S,SouthHampton
+826,Not Survived,3,Third Class,Flynn, Mr, John,male,Male,30,Young Adult,0,0,1, $7 ,Q,QueenTown
+827,Not Survived,3,Third Class,Lam, Mr, Len,male,Male,30,Young Adult,0,0,1, $56 ,S,SouthHampton
+828,Survived,2,Second Class,Mallet, Master, Andre,male,Male,1,Child,0,2,3, $37 ,C,Cherbourg
+829,Survived,3,Third Class,McCormack, Mr, Thomas Joseph,male,Male,30,Young Adult,0,0,1, $8 ,Q,QueenTown
+830,Survived,1,First Class,Stone, Mrs, George Nelson (Martha Evelyn),female,Female,62,Senior Citizen,0,0,1, $80 ,,#N/A
+831,Survived,3,Third Class,Yasbeck, Mrs, Antoni (Selini Alexander),female,Female,15,Teenager,1,0,2, $14 ,C,Cherbourg
+832,Survived,2,Second Class,Richards, Master, George Sibley,male,Male,0.83,Child,1,1,3, $19 ,S,SouthHampton
+833,Not Survived,3,Third Class,Saad, Mr, Amin,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+834,Not Survived,3,Third Class,Augustsson, Mr, Albert,male,Male,23,Young Adult,0,0,1, $8 ,S,SouthHampton
+835,Not Survived,3,Third Class,Allum, Mr, Owen George,male,Male,18,Teenager,0,0,1, $8 ,S,SouthHampton
+836,Survived,1,First Class,Compton, Miss, Sara Rebecca,female,Female,39,Adult,1,1,3, $83 ,C,Cherbourg
+837,Not Survived,3,Third Class,Pasic, Mr, Jakob,male,Male,21,Young Adult,0,0,1, $9 ,S,SouthHampton
+838,Not Survived,3,Third Class,Sirota, Mr, Maurice,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+839,Survived,3,Third Class,Chip, Mr, Chang,male,Male,32,Adult,0,0,1, $56 ,S,SouthHampton
+840,Survived,1,First Class,Marechal, Mr, Pierre,male,Male,30,Young Adult,0,0,1, $30 ,C,Cherbourg
+841,Not Survived,3,Third Class,Alhomaki, Mr, Ilmari Rudolf,male,Male,20,Young Adult,0,0,1, $8 ,S,SouthHampton
+842,Not Survived,2,Second Class,Mudd, Mr, Thomas Charles,male,Male,16,Teenager,0,0,1, $11 ,S,SouthHampton
+843,Survived,1,First Class,Serepeca, Miss, Augusta,female,Female,30,Young Adult,0,0,1, $31 ,C,Cherbourg
+844,Not Survived,3,Third Class,Lemberopolous, Mr, Peter L,male,Male,34.5,Adult,0,0,1, $6 ,C,Cherbourg
+845,Not Survived,3,Third Class,Culumovic, Mr, Jeso,male,Male,17,Teenager,0,0,1, $9 ,S,SouthHampton
+846,Not Survived,3,Third Class,Abbing, Mr, Anthony,male,Male,42,Adult,0,0,1, $8 ,S,SouthHampton
+847,Not Survived,3,Third Class,Sage, Mr, Douglas Bullen,male,Male,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+848,Not Survived,3,Third Class,Markoff, Mr, Marin,male,Male,35,Adult,0,0,1, $8 ,C,Cherbourg
+849,Not Survived,2,Second Class,Harper, Rev, John,male,Male,28,Young Adult,0,1,2, $33 ,S,SouthHampton
+850,Survived,1,First Class,Goldenberg, Mrs, Samuel L (Edwiga Grabowska),female,Female,30,Young Adult,1,0,2, $89 ,C,Cherbourg
+851,Not Survived,3,Third Class,Andersson, Master, Sigvard Harald Elias,male,Male,4,Child,4,2,7, $31 ,S,SouthHampton
+852,Not Survived,3,Third Class,Svensson, Mr, Johan,male,Male,74,Senior Citizen,0,0,1, $8 ,S,SouthHampton
+853,Not Survived,3,Third Class,Boulos, Miss, Nourelain,female,Female,9,Child,1,1,3, $15 ,C,Cherbourg
+854,Survived,1,First Class,Lines, Miss, Mary Conover,female,Female,16,Teenager,0,1,2, $39 ,S,SouthHampton
+855,Not Survived,2,Second Class,Carter, Mrs, Ernest Courtenay (Lilian Hughes),female,Female,44,Adult,1,0,2, $26 ,S,SouthHampton
+856,Survived,3,Third Class,Aks, Mrs, Sam (Leah Rosen),female,Female,18,Teenager,0,1,2, $9 ,S,SouthHampton
+857,Survived,1,First Class,Wick, Mrs, George Dennick (Mary Hitchcock),female,Female,45,Adult,1,1,3, $165 ,S,SouthHampton
+858,Survived,1,First Class,Daly, Mr, Peter Denis ,male,Male,51,Adult,0,0,1, $27 ,S,SouthHampton
+859,Survived,3,Third Class,Baclini, Mrs, Solomon (Latifa Qurban),female,Female,24,Young Adult,0,3,4, $19 ,C,Cherbourg
+860,Not Survived,3,Third Class,Razi, Mr, Raihed,male,Male,30,Young Adult,0,0,1, $7 ,C,Cherbourg
+861,Not Survived,3,Third Class,Hansen, Mr, Claus Peter,male,Male,41,Adult,2,0,3, $14 ,S,SouthHampton
+862,Not Survived,2,Second Class,Giles, Mr, Frederick Edward,male,Male,21,Young Adult,1,0,2, $12 ,S,SouthHampton
+863,Survived,1,First Class,Swift, Mrs, Frederick Joel (Margaret Welles Barron),female,Female,48,Adult,0,0,1, $26 ,S,SouthHampton
+864,Not Survived,3,Third Class,Sage, Miss," Dorothy Edith ""Dolly""",female,Female,30,Young Adult,8,2,11, $70 ,S,SouthHampton
+865,Not Survived,2,Second Class,Gill, Mr, John William,male,Male,24,Young Adult,0,0,1, $13 ,S,SouthHampton
+866,Survived,2,Second Class,Bystrom, Mrs, (Karolina),female,Female,42,Adult,0,0,1, $13 ,S,SouthHampton
+867,Survived,2,Second Class,Duran y More, Miss, Asuncion,female,Female,27,Young Adult,1,0,2, $14 ,C,Cherbourg
+868,Not Survived,1,First Class,Roebling, Mr, Washington Augustus II,male,Male,31,Adult,0,0,1, $50 ,S,SouthHampton
+869,Not Survived,3,Third Class,van Melkebeke, Mr, Philemon,male,Male,30,Young Adult,0,0,1, $10 ,S,SouthHampton
+870,Survived,3,Third Class,Johnson, Master, Harold Theodor,male,Male,4,Child,1,1,3, $11 ,S,SouthHampton
+871,Not Survived,3,Third Class,Balkic, Mr, Cerin,male,Male,26,Young Adult,0,0,1, $8 ,S,SouthHampton
+872,Survived,1,First Class,Beckwith, Mrs, Richard Leonard (Sallie Monypeny),female,Female,47,Adult,1,1,3, $53 ,S,SouthHampton
+873,Not Survived,1,First Class,Carlsson, Mr, Frans Olof,male,Male,33,Adult,0,0,1, $5 ,S,SouthHampton
+874,Not Survived,3,Third Class,Vander Cruyssen, Mr, Victor,male,Male,47,Adult,0,0,1, $9 ,S,SouthHampton
+875,Survived,2,Second Class,Abelson, Mrs, Samuel (Hannah Wizosky),female,Female,28,Young Adult,1,0,2, $24 ,C,Cherbourg
+876,Survived,3,Third Class,Najib, Miss," Adele Kiamie ""Jane""",female,Female,15,Teenager,0,0,1, $7 ,C,Cherbourg
+877,Not Survived,3,Third Class,Gustafsson, Mr, Alfred Ossian,male,Male,20,Young Adult,0,0,1, $10 ,S,SouthHampton
+878,Not Survived,3,Third Class,Petroff, Mr, Nedelio,male,Male,19,Young Adult,0,0,1, $8 ,S,SouthHampton
+879,Not Survived,3,Third Class,Laleff, Mr, Kristo,male,Male,30,Young Adult,0,0,1, $8 ,S,SouthHampton
+880,Survived,1,First Class,Potter, Mrs, Thomas Jr (Lily Alexenia Wilson),female,Female,56,Adult,0,1,2, $83 ,C,Cherbourg
+881,Survived,2,Second Class,Shelley, Mrs, William (Imanita Parrish Hall),female,Female,25,Young Adult,0,1,2, $26 ,S,SouthHampton
+882,Not Survived,3,Third Class,Markun, Mr, Johann,male,Male,33,Adult,0,0,1, $8 ,S,SouthHampton
+883,Not Survived,3,Third Class,Dahlberg, Miss, Gerda Ulrika,female,Female,22,Young Adult,0,0,1, $11 ,S,SouthHampton
+884,Not Survived,2,Second Class,Banfield, Mr, Frederick James,male,Male,28,Young Adult,0,0,1, $11 ,S,SouthHampton
+885,Not Survived,3,Third Class,Sutehall, Mr, Henry Jr,male,Male,25,Young Adult,0,0,1, $7 ,S,SouthHampton
+886,Not Survived,3,Third Class,Rice, Mrs, William (Margaret Norton),female,Female,39,Adult,0,5,6, $29 ,Q,QueenTown
+887,Not Survived,2,Second Class,Montvila, Rev, Juozas,male,Male,27,Young Adult,0,0,1, $13 ,S,SouthHampton
+888,Survived,1,First Class,Graham, Miss, Margaret Edith,female,Female,19,Young Adult,0,0,1, $30 ,S,SouthHampton
+889,Not Survived,3,Third Class,Johnston, Miss," Catherine Helen ""Carrie""",female,Female,30,Young Adult,1,2,4, $23 ,S,SouthHampton
+890,Survived,1,First Class,Behr, Mr, Karl Howell,male,Male,26,Young Adult,0,0,1, $30 ,C,Cherbourg
+891,Not Survived,3,Third Class,Dooley, Mr, Patrick,male,Male,32,Adult,0,0,1, $8 ,Q,QueenTown
