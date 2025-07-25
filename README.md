@@ -3,7 +3,9 @@
 
 In this project, I explored and analyzed the Titanic dataset using **Microsoft Excel**. My focus was on transforming raw data into meaningful insights using **data cleaning**, **manipulation**, and **pivot table visualizations**. Here's an overview of the steps I followed and the skills I applied:
 
----
+## Dashboard Features
+
+![Dashboard Preview](https://github.com/Maira-Nawaz/Titanic-Data-Analysis-in-Excel/blob/main/Titanic%20Data%20Analysis.png)
 
 ###  1. Data Cleaning and Preparation
 
